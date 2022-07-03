@@ -11,7 +11,7 @@ import json
 app = FastAPI()
 
 origins = [
-    'http://localhost:3000/'
+    'https://juc-schedule.web.app/'
 ]
 app.add_middleware(
     CORSMiddleware,
@@ -22,7 +22,8 @@ app.add_middleware(
 )
 
 coursesList: List[str] = []
-branch:List[str]=[]
+branch: List[str] = []
+
 
 @app.get('/')
 async def root():
@@ -31,7 +32,7 @@ async def root():
 
 @app.get('/scheduls')
 async def root():
-    TheList=scheduler(coursesList,branch[0])
+    TheList = scheduler(coursesList, branch[0])
     coursesList.clear()
     branch.clear()
     return TheList
@@ -41,11 +42,13 @@ async def root():
 async def root():
     return homeScedules()
 
+
 @app.post('/')
 async def courses_list(courses: List[Union[list, str]]):
     coursesList.append(courses[0])
     branch.append(courses[1])
-    return scheduler(coursesList,branch[0])
+    return scheduler(coursesList, branch[0])
+
 
 @app.delete('/delete')
 async def delete_list():
