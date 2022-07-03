@@ -45,6 +45,8 @@ async def root():
 
 @app.post('/')
 async def courses_list(courses: List[Union[list, str]]):
+    coursesList.clear()
+    branch.clear()
     coursesList.append(courses[0])
     branch.append(courses[1])
     return scheduler(coursesList, branch[0])
