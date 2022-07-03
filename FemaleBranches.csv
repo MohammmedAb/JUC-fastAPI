@@ -1,0 +1,461 @@
+Course Code,Course name,CR,CT,S. Seq,SC,Activity,SUN,MON,TUE,WED,THU,Room No,STAFF
+ACCT 121,Introduction to Financial Accounting I,3,,78,201,Practical,,,,,"1,2,3",F431,BAIAN MOHAMMED AL-DALHAM
+ACCT 121,Introduction to Financial Accounting I,3,,83,202,Practical,,,,"6,7,8",,F432,Ms.Tahani Aboud Almuqati
+ACCT 121,Introduction to Financial Accounting I,3,,90,213,Practical,,,,,"6,7,8",F432,Ms.Tahani Aboud Almuqati
+ACCT 121,Introduction to Financial Accounting I,3,,141,203,Practical,,,,"4,5,6",,F329,Amal Mohammed Mobrad
+ACCT 121,Introduction to Financial Accounting I,3,,149,204,Practical,,,,,"1,2,3",47,Amal Mohammed Mobrad
+ACCT 121,Introduction to Financial Accounting I,3,,157,205,Practical,,,"4,5,6",,,F431,Amal Mohammed Mobrad
+ACCT 121,Introduction to Financial Accounting I,3,,215,206,Practical,,,"4,5,6",,,F432,MALAK SALEH AL-RUQAIE
+ACCT 121,Introduction to Financial Accounting I,3,,222,207,Practical,,"6,7,8",,,,49,MALAK SALEH AL-RUQAIE
+ACCT 121,Introduction to Financial Accounting I,3,,269,208,Practical,"6,7,8",,,,,F432,MALAK SALEH AL-RUQAIE
+ACCT 121,Introduction to Financial Accounting I,3,,277,209,Practical,"4,5,6",,,,,F431,Ms.Tahani Aboud Almuqati
+ACCT 121,Introduction to Financial Accounting I,3,,285,210,Practical,,"4,5,6",,,,53,SARAH ABDULLAH AlQurzai
+ACCT 121,Introduction to Financial Accounting I,3,,289,211,Practical,,,,"6,7,8",,52,SARAH ABDULLAH AlQurzai
+ACCT 121,Introduction to Financial Accounting I,3,,291,212,Practical,"6,7,8",,,,,52,Raghad Khaled ALOtaibi
+ACCT 121,Introduction to Financial Accounting I,3,,77,201,Theoretical,,"4,5",,,,58,BAIAN MOHAMMED AL-DALHAM
+ACCT 121,Introduction to Financial Accounting I,3,,82,202,Theoretical,,"1,2",,,,58,Ms.Tahani Aboud Almuqati
+ACCT 121,Introduction to Financial Accounting I,3,,89,213,Theoretical,,,"4,5",,,58,Ms.Tahani Aboud Almuqati
+ACCT 121,Introduction to Financial Accounting I,3,,140,203,Theoretical,"4,5",,,,,F308,Amal Mohammed Mobrad
+ACCT 121,Introduction to Financial Accounting I,3,,148,204,Theoretical,,"4,5",,,,F307,Amal Mohammed Mobrad
+ACCT 121,Introduction to Financial Accounting I,3,,214,206,Theoretical,"4,5",,,,,F335,MALAK SALEH AL-RUQAIE
+ACCT 121,Introduction to Financial Accounting I,3,,221,207,Theoretical,,,,,"1,2",F334,MALAK SALEH AL-RUQAIE
+ACCT 121,Introduction to Financial Accounting I,3,,268,208,Theoretical,,,,"1,2",,F405,MALAK SALEH AL-RUQAIE
+ACCT 121,Introduction to Financial Accounting I,3,,276,209,Theoretical,,,,"1,2",,F404,Ms.Tahani Aboud Almuqati
+ACCT 121,Introduction to Financial Accounting I,3,,284,210,Theoretical,,,,,"1,2",F411,SARAH ABDULLAH AlQurzai
+ACCT 121,Introduction to Financial Accounting I,3,,288,211,Theoretical,,"1,2",,,,F410,SARAH ABDULLAH AlQurzai
+ACCT 121,Introduction to Financial Accounting I,3,,290,212,Theoretical,,,"1,2",,,F410,Raghad Khaled ALOtaibi
+ACCT 222,Introduction to Financial Accounting II,3,,98,201,Practical,,,,,"1,2,3",F432,Raghad Khaled ALOtaibi
+ACCT 222,Introduction to Financial Accounting II,3,,162,202,Practical,,,,,"4,5,6",F431,BAIAN MOHAMMED AL-DALHAM
+ACCT 222,Introduction to Financial Accounting II,3,,295,203,Practical,,,,"1,2,3",,F432,Raghad Khaled ALOtaibi
+ACCT 222,Introduction to Financial Accounting II,3,,297,204,Practical,"1,2,3",,,,,53,BAIAN MOHAMMED AL-DALHAM
+ACCT 222,Introduction to Financial Accounting II,3,,97,201,Theoretical,,"4,5",,,,56,Raghad Khaled ALOtaibi
+ACCT 222,Introduction to Financial Accounting II,3,,161,202,Theoretical,,,"4,5",,,F306,BAIAN MOHAMMED AL-DALHAM
+ACCT 222,Introduction to Financial Accounting II,3,,294,203,Theoretical,"1,2",,,,,F410,Raghad Khaled ALOtaibi
+ACCT 224,Cost Accounting,3,,106,201,Theoretical,,8,,,"1,2",57,Dr.HUMERA SHAHID
+ACCT 224,Cost Accounting,3,,232,202,Theoretical,"4,5",,,7,,F336,Dr.HUMERA SHAHID
+ACCT 224,Cost Accounting,3,,237,203,Theoretical,6,,"4,5",,,F337,Dr.HUMERA SHAHID
+ACCT 303,Intermediate Accounting I,3,,124,201,Theoretical,,,3,,"4,5","56,55,55",Kholod Fahad AL-Sahali
+ACCT 303,Intermediate Accounting I,3,,230,202,Theoretical,,"4,5",,,8,F336,Kholod Fahad AL-Sahali
+ACCT 305,Accounting for Governmental and Non-,3,,333,201,Theoretical,"6,7",,,3,,88,MOHAMMED AL-JABER
+ACCT 428,Managerial Accounting,3,,120,201,Theoretical,,"4,5",,,3,73,Dr.HUMERA SHAHID
+ACCT 429,Financial Statement Analysis,3,,244,201,Practical,,,,,"4,5",89,MUNIR HUSAIN
+ACCT 429,Financial Statement Analysis,3,,246,202,Practical,,,,,"4,5",89,MUNIR HUSAIN
+ACCT 429,Financial Statement Analysis,3,,243,201,Theoretical,,,"6,7",,,89,MUNIR HUSAIN
+ACCT 429,Financial Statement Analysis,3,,245,202,Theoretical,,,"6,7",,,89,MUNIR HUSAIN
+ACCT 434,Corporate Financial Reporting,3,,254,201,Theoretical,"1,2",,8,,,89,Dr.ASIF BAIG
+ACCT 434,Corporate Financial Reporting,3,,255,202,Theoretical,"1,2",,8,,,89,Dr.ASIF BAIG
+ACCT 443,Zakat and Business Tax Accounting,3,,258,201,Theoretical,3,,,"1,2",,F341,Amal Mohammed Mobrad
+ACCT 444,Advanced Accounting,3,,253,201,Theoretical,,"1,2",,6,,89,Dr.HUMERA SHAHID
+ACCT 457,Auditing,3,,257,201,Theoretical,,"1,2",,6,,90,Dr.ASIF BAIG
+BUS 151,Microeconomics,3,3,138,203,Theoretical,,,8,,"4,5",F308,DOHA SAUD ALOTAIBI
+BUS 151,Microeconomics,3,3,150,204,Theoretical,6,,"4,5",,,F307,DOHA SAUD ALOTAIBI
+BUS 152,Macroeconomics,3,3,79,201,Theoretical,"4,5",,7,,,58,Wafa Marzooq ALOsimi
+BUS 152,Macroeconomics,3,3,87,202,Theoretical,,6,,,"4,5",57,Wafa Marzooq ALOsimi
+BUS 152,Macroeconomics,3,3,213,203,Theoretical,,"1,2",,3,,F335,Wafa Marzooq ALOsimi
+BUS 152,Macroeconomics,3,3,267,205,Theoretical,3,,"4,5",,,F405,LAMA SALEH ALRUQAIE
+BUS 152,Macroeconomics,3,3,275,206,Theoretical,,"4,5",,,3,F404,LAMA SALEH ALRUQAIE
+BUS 152,Macroeconomics,3,3,283,207,Theoretical,,8,,"4,5",,F411,LAMA SALEH ALRUQAIE
+BUS 223,Financial Management,3,3,101,201,Theoretical,,"4,5",,,3,57,Reem Fahad AlZumaia
+BUS 223,Financial Management,3,3,173,202,Theoretical,,,"4,5",,6,F305,Kholod Fahad AL-Sahali
+BUS 223,Financial Management,3,3,182,203,Theoretical,7,,"4,5",,,F304,Reem Fahad AlZumaia
+BUS 223,Financial Management,3,3,231,204,Theoretical,"1,2",,,6,,F336,Reem Fahad AlZumaia
+BUS 223,Financial Management,3,3,236,205,Theoretical,,8,,"4,5",,F337,Reem Fahad AlZumaia
+BUS 223,Financial Management,3,3,300,206,Theoretical,,6,,"1,2",,F411,Kholod Fahad AL-Sahali
+BUS 231,Principles of Marketing,3,3,95,201,Theoretical,,6,,,"4,5",56,Fatimah Abdulaziz Abubshait
+BUS 231,Principles of Marketing,3,3,174,202,Theoretical,"4,5",,7,,,F305,Dr.SUJA SUNDRAM
+BUS 231,Principles of Marketing,3,3,183,203,Theoretical,,"1,2",,,7,F304,Fatimah Abdulaziz Abubshait
+BUS 231,Principles of Marketing,3,3,293,204,Theoretical,,7,,,"1,2",F410,Fatimah Abdulaziz Abubshait
+BUS 241,Operations Management,3,3,96,201,Theoretical,,7,,"4,5",,56,SABITHA NIKETH
+BUS 241,Operations Management,3,3,192,202,Theoretical,,6,,,"1,2",F304,SABITHA NIKETH
+BUS 242,Operations Research,3,3,102,201,Theoretical,,,"6,7",,8,89,SABITHA NIKETH
+BUS 242,Operations Research,3,3,103,202,Theoretical,,,"6,7",,8,89,SABITHA NIKETH
+BUS 243,Total Quality Management,3,3,99,201,Theoretical,3,,"1,2",,,56,Dr.SUJA SUNDRAM
+BUS 261,Business Communication,3,3,111,203,Theoretical,"1,2",,8,,,89,Tomasa Gilera Bitanga
+BUS 261,Business Communication,3,3,305,204,Theoretical,,"4,5",,,3,89,Tomasa Gilera Bitanga
+BUS 261,Business Communication,3,3,306,404,Theoretical,,"4,5",,,3,90,Tomasa Gilera Bitanga
+BUS 305,Legal Environment,3,3,201,202,Theoretical,,,6,,"4,5",F334,SARAH ABDULLAH AlQurzai
+BUS 305,Legal Environment,3,3,234,203,Theoretical,,,"4,5",,7,F336,SARAH ABDULLAH AlQurzai
+BUS 305,Legal Environment,3,3,239,204,Theoretical,3,,,"1,2",,F337,SARAH ABDULLAH AlQurzai
+BUS 313,Organizational Behavior and Design,3,3,116,201,Theoretical,3,,,"4,5",,55,Wafa Marzooq ALOsimi
+BUS 313,Organizational Behavior and Design,3,3,196,202,Theoretical,8,,,"6,7",,F311,Wafa Marzooq ALOsimi
+BUS 321,Business Research Methods,3,3,197,203,Theoretical,,"4,5",,,3,F311,Dr.Nijod Emad ALJabr
+BUS 321,Business Research Methods,3,3,200,204,Theoretical,"4,5",,,3,,F334,Dr.Nijod Emad ALJabr
+BUS 321,Business Research Methods,3,3,233,201,Theoretical,6,,,"1,2",,F336,MASHAEL AL MUQBIL
+BUS 325,Investment,3,3,112,201,Theoretical,,7,,,"4,5",89,Reem Fahad AlZumaia
+BUS 344,Project Management,3,3,113,201,Theoretical,,"4,5",,,3,55,Raneem Faisal Almindeel
+BUS 344,Project Management,3,3,318,202,Theoretical,,8,,"4,5",,F409,Raneem Faisal Almindeel
+BUS 411,Strategic Management,3,3,130,201,Theoretical,,8,,,"1,2",F308,Dr.SOFIA JASMEEN
+BUS 411,Strategic Management,3,3,207,202,Theoretical,,"4,5",,,3,F334,Dr.SOFIA JASMEEN
+BUS 412,International Business,3,3,123,201,Theoretical,,"1,2",,3,,57,Dr.SUJA SUNDRAM
+BUS 412,International Business,3,3,323,202,Theoretical,,,8,,"1,2",F412,Dr.SUJA SUNDRAM
+BUS 413,Entrepreneurship,3,,126,201,Theoretical,8,,,"7,8",,89,ABDULLAH S. AL-SAGOUB
+BUS 416,Business Ethics,3,,121,201,Theoretical,"6,7",,8,,,89,ABDULLAH S. AL-SAGOUB
+BUS 426,Financial Institutions,3,3,122,201,Theoretical,,,"1,2",,6,57,Reem Fahad AlZumaia
+BUS 430,Intermediate Accounting,3,3,125,401,Theoretical,,,3,,"4,5",55,Kholod Fahad AL-Sahali
+BUS 431,Project Feasibility Analysis,3,3,127,401,Theoretical,8,,,"7,8",,89,ABDULLAH S. AL-SAGOUB
+CS 120,Programming I,3,,9,201,Practical,,,"4,5,6",,,47,ENAS EID ALRADDADI
+CS 120,Programming I,3,,17,202,Practical,,,,"1,2,3",,47,SABA ABDULLAH ALFAIFY
+CS 120,Programming I,3,,25,203,Practical,,,,,"4,5,6",47,Dr.NASSIMA ALEB
+CS 120,Programming I,3,,31,204,Practical,,,,,"4,5,6",45,SARAH AL MULHIM
+CS 120,Programming I,3,,133,206,Practical,,,,,"4,5,6",49,ENAS EID ALRADDADI
+CS 120,Programming I,3,,135,205,Practical,,,,"1,2,3",,49,ENAS EID ALRADDADI
+CS 120,Programming I,3,,8,201,Theoretical,"1,2",,,,,47,ENAS EID ALRADDADI
+CS 120,Programming I,3,,16,202,Theoretical,,"6,7",,,,47,SABA ABDULLAH ALFAIFY
+CS 120,Programming I,3,,24,203,Theoretical,,"4,5",,,,47,Dr.NASSIMA ALEB
+CS 120,Programming I,3,,30,204,Theoretical,,"1,2",,,,45,SARAH AL MULHIM
+CS 230,Digital Logic Design,4,,335,201,Practical,,,"1,2,3",,,45,Zasriati Azla Sabot
+CS 230,Digital Logic Design,4,,334,201,Theoretical,"3,4,5",,,,,47,Zasriati Azla Sabot
+CS 231,Programming II,4,,34,201,Practical,,,,,"4,5,6",52,Dr.RUCHI RAMESH TULI
+CS 231,Programming II,4,,165,202,Practical,,,,"1,2,3",,F431,Dr.RUCHI RAMESH TULI
+CS 231,Programming II,4,,167,203,Practical,,,,,"4,5,6",53,Mona Abdullah ALLuwaym
+CS 231,Programming II,4,,169,204,Practical,,,,"4,5,6",,F431,Mona Abdullah ALLuwaym
+CS 231,Programming II,4,,33,201,Theoretical,,,"4,5,6",,,52,Dr.RUCHI RAMESH TULI
+CS 231,Programming II,4,,164,202,Theoretical,,"4,5,6",,,,F431,Dr.RUCHI RAMESH TULI
+CS 231,Programming II,4,,166,203,Theoretical,,,"4,5,6",,,53,Mona Abdullah ALLuwaym
+CS 231,Programming II,4,,168,204,Theoretical,"1,2,3",,,,,F431,Mona Abdullah ALLuwaym
+CS 232,Discrete Structures I,3,,32,201,Theoretical,"4,5",,,7,,77,Dr.HELALA MOHAMMAD ALSHEHRI
+CS 240,Discrete Structures II,3,,35,201,Theoretical,"4,5",,,7,,76,Mona Abdullah ALLuwaym
+CS 240,Discrete Structures II,3,,41,202,Theoretical,,"1,2",,3,,77,Mona Abdullah ALLuwaym
+CS 241,Data Structures,4,,39,201,Practical,,,,,"1,2,3",45,SARAH AL MULHIM
+CS 241,Data Structures,4,,45,202,Practical,,,,"6,7,8",,45,SARAH AL MULHIM
+CS 241,Data Structures,4,,38,201,Theoretical,,,"4,5,6",,,45,SABA ABDULLAH ALFAIFY
+CS 241,Data Structures,4,,44,202,Theoretical,"1,2,3",,,,,45,SABA ABDULLAH ALFAIFY
+CS 242,Computer Architecture and Organization,4,,37,201,Practical,,,,"1,2,3",,50,KAVITHA ARAVIND GANESAN
+CS 242,Computer Architecture and Organization,4,,43,202,Practical,,,,,"1,2,3",49,KAVITHA ARAVIND GANESAN
+CS 242,Computer Architecture and Organization,4,,48,203,Practical,,,,"6,7,8",,49,KAVITHA ARAVIND GANESAN
+CS 242,Computer Architecture and Organization,4,,36,201,Theoretical,,"4,5,6",,,,50,KAVITHA ARAVIND GANESAN
+CS 242,Computer Architecture and Organization,4,,42,202,Theoretical,,,"1,2,3",,,49,KAVITHA ARAVIND GANESAN
+CS 242,Computer Architecture and Organization,4,,47,203,Theoretical,"1,2,3",,,,,49,KAVITHA ARAVIND GANESAN
+CS 360,Operating Systems,4,,51,201,Practical,,,,"1,2,3",,52,SARAH AL MULHIM
+CS 360,Operating Systems,4,,50,201,Theoretical,,"4,5,6",,,,52,SARAH AL MULHIM
+CS 361,Computer and Network Security,3,,53,201,Practical,,,,8,,53,SABA ABDULLAH ALFAIFY
+CS 361,Computer and Network Security,3,,52,201,Theoretical,"4,5",,,7,,53,SABA ABDULLAH ALFAIFY
+CS 362,Web Engineering and Development,3,,55,201,Practical,,,,,"1,2,3",52,Zasriati Azla Sabot
+CS 362,Web Engineering and Development,3,,59,202,Practical,,,"6,7,8",,,49,Zasriati Azla Sabot
+CS 362,Web Engineering and Development,3,,54,201,Theoretical,,"7,8",,,,52,Zasriati Azla Sabot
+CS 362,Web Engineering and Development,3,,58,202,Theoretical,"6,7",,,,,49,Zasriati Azla Sabot
+CS 363,Software Engineering,3,,57,201,Practical,,,,,8,49,Dr.Mariam Saleh ALQasab
+CS 363,Software Engineering,3,,61,202,Practical,,,,8,,,Dr.Mariam Saleh ALQasab
+CS 363,Software Engineering,3,,56,201,Theoretical,,,"4,5",,7,49,Dr.Mariam Saleh ALQasab
+CS 363,Software Engineering,3,,60,202,Theoretical,"4,5",,,7,,49,Dr.Mariam Saleh ALQasab
+CS 415,Computer Communications,3,3,195,201,Theoretical,"4,5",,7,,,F312,Dr.NASSIMA ALEB
+CS 415,Computer Communications,3,3,199,202,Theoretical,3,,"4,5",,,F312,Dr.NASSIMA ALEB
+CS 465,Cloud Computing,3,,63,201,Practical,,,,5,,52,Dr.RUCHI RAMESH TULI
+CS 465,Cloud Computing,3,,62,201,Theoretical,"1,2",,,4,,52,Dr.RUCHI RAMESH TULI
+CS 470,Introduction to Artificial Intelligence,3,,336,201,Theoretical,,"1,2",,7,,73,Dr.NASSIMA ALEB
+ENGL 118,English Composition II,3,3,13,203,Theoretical,,,7,,"4,5",F310,Seemeen Rana
+ENGL 118,English Composition II,3,3,21,204,Theoretical,,,"4,5",,8,F310,Seemeen Rana
+ENGL 118,English Composition II,3,3,29,205,Theoretical,6,,"1,2",,,F310,Seemeen Rana
+ENGL 118,English Composition II,3,3,80,206,Theoretical,,7,,,"4,5",58,FILIZ KALALI
+ENGL 118,English Composition II,3,3,86,207,Theoretical,,8,,,"1,2",73,FILIZ KALALI
+ENGL 118,English Composition II,3,3,143,210,Theoretical,,"4,5",,,7,F308,FILIZ KALALI
+ENGL 118,English Composition II,3,3,152,211,Theoretical,7,,"6,7",,,F307,DENISE MAY WRIGHT
+ENGL 118,English Composition II,3,3,218,208,Theoretical,"1,2",,,,3,F335,Seemeen Rana
+ENGL 118,English Composition II,3,3,226,209,Theoretical,,,2,,"4,5",F335,AMANI SAMI SALMEEN
+ENGL 118,English Composition II,3,3,270,212,Theoretical,,"1,2",,,8,F405,Ms. Sarah Mohammed ALShahrani
+ENGL 118,English Composition II,3,3,278,213,Theoretical,,,1,,"1,2",F404,DENISE MAY WRIGHT
+GS 142,Health Education II,1,2,110,203,Practical,,2,,,,F344,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,145,204,Practical,7,,,,,F344,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,154,205,Practical,5,,,,,F344,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,242,206,Practical,,,,,2,F344,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,308,207,Practical,,,,7,,F344,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,109,203,Theoretical,,1,,,,F344,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,144,204,Theoretical,6,,,,,F344,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,153,205,Theoretical,4,,,,,F344,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,241,206,Theoretical,,,,,1,F344,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,307,207,Theoretical,,,,6,,F344,Ann Margrette Mehoy Allida
+GS 161,Arabic Practical Grammar,2,2,88,203,Theoretical,"6,7",,,,,74,Abrar Abdulrahman ALDakail
+GS 161,Arabic Practical Grammar,2,2,146,204,Theoretical,,,,"1,2",,F307,Abrar Abdulrahman ALDakail
+GS 161,Arabic Practical Grammar,2,2,155,205,Theoretical,,,"1,2",,,F307,Abrar Abdulrahman ALDakail
+GS 161,Arabic Practical Grammar,2,2,229,206,Theoretical,"1,2",,,,,F334,Abrar Abdulrahman ALDakail
+GS 161,Arabic Practical Grammar,2,2,271,207,Theoretical,,,,,"4,5",F405,Abrar Abdulrahman ALDakail
+GS 161,Arabic Practical Grammar,2,2,279,208,Theoretical,,,,,"6,7",F405,Abrar Abdulrahman ALDakail
+GS 161,Arabic Practical Grammar,2,2,286,209,Theoretical,,,,"6,7",,F405,Abrar Abdulrahman ALDakail
+GS 171,Belief & its Consequences,2,2,7,202,Theoretical,,,,,"6,7",F309,WAFA AL-GHAMLAS
+GS 171,Belief & its Consequences,2,2,15,203,Theoretical,,,"6,7",,,F309,WAFA AL-GHAMLAS
+GS 171,Belief & its Consequences,2,2,23,204,Theoretical,,,,"4,5",,F309,WAFA AL-GHAMLAS
+GS 243,Health Education III (Female),1,2,250,201,Practical,,,,5,,F344,Ann Margrette Mehoy Allida
+GS 243,Health Education III (Female),1,2,252,202,Practical,,,,,5,F344,Ann Margrette Mehoy Allida
+GS 243,Health Education III (Female),1,2,321,203,Practical,,7,,,,F344,Ann Margrette Mehoy Allida
+GS 243,Health Education III (Female),1,2,249,201,Theoretical,,,,4,,F344,Ann Margrette Mehoy Allida
+GS 243,Health Education III (Female),1,2,251,202,Theoretical,,,,,4,F344,Ann Margrette Mehoy Allida
+GS 243,Health Education III (Female),1,2,320,203,Theoretical,,6,,,,F344,Ann Margrette Mehoy Allida
+GS 262,Arabic Professional Writing,2,2,108,203,Theoretical,,,,,"6,7",74,NADIA THUBAIT ALSHAREEF
+GS 262,Arabic Professional Writing,2,2,235,204,Theoretical,,,,"4,5",,F336,NADIA THUBAIT ALSHAREEF
+GS 262,Arabic Professional Writing,2,2,240,205,Theoretical,,"6,7",,,,F337,NADIA THUBAIT ALSHAREEF
+GS 262,Arabic Professional Writing,2,2,304,206,Theoretical,,,,,"4,5",F409,NADIA THUBAIT ALSHAREEF
+GS 262,Arabic Professional Writing,2,2,312,207,Theoretical,"4,5",,,,,F407,NADIA THUBAIT ALSHAREEF
+GS 262,Arabic Professional Writing,2,2,316,208,Theoretical,,,,"6,7",,F408,NADIA THUBAIT ALSHAREEF
+GS 272,Professional Ethics,2,2,49,202,Theoretical,,,,,"4,5",F309,WAFA AL-GHAMLAS
+GS 272,Professional Ethics,2,2,100,203,Theoretical,,,"4,5",,,72,WAFA AL-GHAMLAS
+GS 363,Arabic Communication Skills,2,2,64,202,Theoretical,,"1,2",,,,F311,NADIA THUBAIT ALSHAREEF
+GS 363,Arabic Communication Skills,2,2,118,203,Theoretical,"1,2",,,,,74,NADIA THUBAIT ALSHAREEF
+GS 363,Arabic Communication Skills,2,2,119,204,Theoretical,,,"4,5",,,74,Abrar Abdulrahman ALDakail
+GS 373,Human Rights in Islam,2,2,247,203,Theoretical,,,,,"6,7",F337,MEIAD SULEAMAN ALSHAHARI
+GS 373,Human Rights in Islam,2,2,248,204,Theoretical,,,"1,2",,,F337,MEIAD SULEAMAN ALSHAHARI
+GS 373,Human Rights in Islam,2,2,322,205,Theoretical,,,,,"4,5",F412,MEIAD SULEAMAN ALSHAHARI
+GS 373,Human Rights in Islam,2,2,327,206,Theoretical,,,"4,5",,,F412,MEIAD SULEAMAN ALSHAHARI
+GS 373,Human Rights in Islam,2,2,328,207,Theoretical,,"1,2",,,,F312,MEIAD SULEAMAN ALSHAHARI
+HRM 112,Human Resource Management,3,,74,201,Theoretical,,,"4,5",,6,59,***
+HRM 112,Human Resource Management,3,,81,202,Theoretical,3,,"1,2",,,58,Ms. Noor Yousef ALsulami
+HRM 112,Human Resource Management,3,,172,203,Theoretical,,"4,5",,,3,F305,Maryam Ahmed ALArfaj
+HRM 112,Human Resource Management,3,,264,205,Theoretical,,8,,"4,5",,F405,Maryam Ahmed ALArfaj
+HRM 112,Human Resource Management,3,,272,206,Theoretical,"1,2",,,3,,F404,Ms. Noor Yousef ALsulami
+HRM 112,Human Resource Management,3,,280,207,Theoretical,,7,,,"4,5",F411,Maryam Ahmed ALArfaj
+HRM 212,Human Resource information Systems,3,,292,201,Theoretical,,8,,"4,5",,F410,DOHA SAUD ALOTAIBI
+HRM 221,Employee Recruitment and Selection,3,,302,201,Theoretical,8,,"4,5",,,F411,Ms. Noor Yousef ALsulami
+HRM 221,Employee Recruitment and Selection,3,,313,202,Theoretical,,6,,"1,2",,F408,Ms. Noor Yousef ALsulami
+HRM 222,Human Resource Development,3,,117,201,Theoretical,"4,5",,,6,,"F408,F408,F411",SAJA ABDULRHMAN ALAWDAH
+HRM 222,Human Resource Development,3,,301,202,Theoretical,,"1,2",,,7,F411,SAJA ABDULRHMAN ALAWDAH
+HRM 222,Human Resource Development,3,,310,203,Theoretical,,,7,,"4,5",F408,SAJA ABDULRHMAN ALAWDAH
+HRM 223,Leadership in Organizations,3,,303,201,Theoretical,"4,5",,6,,,F409,Shahad Ali ALDawood
+HRM 223,Leadership in Organizations,3,,311,202,Theoretical,,"1,2",,,7,F408,Shahad Ali ALDawood
+HRM 311,Performance management,3,,337,201,Theoretical,,,7,,"4,5",F407,Shahad Ali ALDawood
+HRM 321,Employment Law,3,,319,201,Theoretical,3,,"4,5",,,F409,Maryam Ahmed ALArfaj
+HRM 321,Employment Law,3,,325,202,Theoretical,,,8,,"1,2",F409,Maryam Ahmed ALArfaj
+HRM 324,Organizational Development,3,,324,201,Theoretical,,,"6,7",,6,F412,Dr.SOFIA JASMEEN
+HRM 324,Organizational Development,3,,338,202,Theoretical,"4,5",,,6,,F412,Dr.SOFIA JASMEEN
+HRM 411,Compensation Management,3,,340,201,Theoretical,,"4,5",,7,,F407,SAJA ABDULRHMAN ALAWDAH
+HRM 413,Occupational Health & Safety,3,,339,201,Theoretical,,7,,"4,5",,F407,Shahad Ali ALDawood
+LSCM 251,Supply Chain Management,3,,104,201,Theoretical,"4,5",,,6,,89,SABITHA NIKETH
+LSCM 251,Supply Chain Management,3,,105,202,Theoretical,"4,5",,,6,,89,SABITHA NIKETH
+MATH 112,Calculus II,4,4,6,201,Theoretical,,"4,5",,,"1,2",F310,Dr.HINA KHAN
+MATH 112,Calculus II,4,4,14,202,Theoretical,,"1,2",,"4,5",,F310,Dr.HINA KHAN
+MATH 112,Calculus II,4,4,22,203,Theoretical,"4,5",,"4,5",,,F309,Dr.HINA KHAN
+MATH 114,Math for Management II,3,3,142,201,Theoretical,,"1,2",,,3,F308,SAMREEN FATIMA
+MATH 114,Math for Management II,3,3,151,202,Theoretical,,7,,,"4,5",F307,SAMREEN FATIMA
+MATH 114,Math for Management II,3,3,158,206,Theoretical,,6,,"4,5",,F307,SAMREEN FATIMA
+MATH 117,Statistical Methods for Management I,3,5,76,201,Practical,,,,"4,5,6",,47,Sarah Yousef ALali
+MATH 117,Statistical Methods for Management I,3,5,85,206,Practical,,,,"1,2,3",,45,Dr.HINA KHAN
+MATH 117,Statistical Methods for Management I,3,5,212,202,Practical,,,,,"4,5,6",F329,Asmaa Hazza Alshamrani
+MATH 117,Statistical Methods for Management I,3,5,220,207,Practical,,,,"4,5,6",,50,Asmaa Hazza Alshamrani
+MATH 117,Statistical Methods for Management I,3,5,266,203,Practical,,,,,"1,2,3",50,Asmaa Hazza Alshamrani
+MATH 117,Statistical Methods for Management I,3,5,274,204,Practical,,,"6,7,8",,,50,Dr.HINA KHAN
+MATH 117,Statistical Methods for Management I,3,5,282,205,Practical,,,"6,7,8",,,F329,Sarah Yousef ALali
+MATH 117,Statistical Methods for Management I,3,5,75,201,Theoretical,"1,2",,,,,72,Sarah Yousef ALali
+MATH 117,Statistical Methods for Management I,3,5,84,206,Theoretical,"1,2",,,,,73,Dr.HINA KHAN
+MATH 117,Statistical Methods for Management I,3,5,211,202,Theoretical,,"4,5",,,,F335,Asmaa Hazza Alshamrani
+MATH 117,Statistical Methods for Management I,3,5,219,207,Theoretical,,"1,2",,,,F334,Asmaa Hazza Alshamrani
+MATH 117,Statistical Methods for Management I,3,5,265,203,Theoretical,,"6,7",,,,F405,Asmaa Hazza Alshamrani
+MATH 117,Statistical Methods for Management I,3,5,273,204,Theoretical,,,,,"4,5",F404,Dr.HINA KHAN
+MATH 117,Statistical Methods for Management I,3,5,281,205,Theoretical,"4,5",,,,,F411,Sarah Yousef ALali
+MATH 118,Statistical Method for Management II,3,5,92,201,Practical,,,,"1,2,3",,53,Sarah Yousef ALali
+MATH 118,Statistical Method for Management II,3,5,171,202,Practical,,,,"4,5,6",,53,Khaznah Mohammed AL Khaldi
+MATH 118,Statistical Method for Management II,3,5,180,203,Practical,,,,,"1,2,3",53,Khaznah Mohammed AL Khaldi
+MATH 118,Statistical Method for Management II,3,5,91,201,Theoretical,,"1,2",,,,72,Sarah Yousef ALali
+MATH 118,Statistical Method for Management II,3,5,170,202,Theoretical,,"1,2",,,,F306,Khaznah Mohammed AL Khaldi
+MATH 118,Statistical Method for Management II,3,5,179,203,Theoretical,,"4,5",,,,F304,Khaznah Mohammed AL Khaldi
+MATH 216,Linear Algebra & Differential,3,3,40,201,Theoretical,3,,"1,2",,,77,HASINA KHAN
+MATH 216,Linear Algebra & Differential,3,3,46,202,Theoretical,,,"4,5",,7,77,HASINA KHAN
+MIS 101,Computer Applications,3,4,93,201,Practical,,,,"7,8",,F329,LAMA SALEH ALRUQAIE
+MIS 101,Computer Applications,3,4,216,203,Practical,,"7,8",,,,F329,MALAK YAHIA AL QAHTANI
+MIS 101,Computer Applications,3,4,224,204,Practical,,,,"1,2",,F329,MALAK YAHIA AL QAHTANI
+MIS 101,Computer Applications,3,4,227,205,Practical,,,,,"1,2",F329,MALAK YAHIA AL QAHTANI
+MIS 101,Computer Applications,3,4,94,201,Theoretical,"7,8",,,,,F329,LAMA SALEH ALRUQAIE
+MIS 101,Computer Applications,3,4,137,202,Theoretical,"1,2",,,,,F329,LAMA SALEH ALRUQAIE
+MIS 101,Computer Applications,3,4,217,203,Theoretical,,,,,"7,8",F329,MALAK YAHIA AL QAHTANI
+MIS 101,Computer Applications,3,4,225,204,Theoretical,"4,5",,,,,F329,MALAK YAHIA AL QAHTANI
+MIS 101,Computer Applications,3,4,228,205,Theoretical,,"4,5",,,,F329,MALAK YAHIA AL QAHTANI
+MIS 102,Principles of MIS,3,3,139,203,Theoretical,,,"4,5",,6,F308,MALAK YAHIA AL QAHTANI
+MIS 102,Principles of MIS,3,3,147,204,Theoretical,,"1,2",,8,,F307,MASHAEL AL MUQBIL
+MIS 102,Principles of MIS,3,3,159,205,Theoretical,,"4,5",,,3,F306,MASHAEL AL MUQBIL
+MIS 102,Principles of MIS,3,3,160,206,Theoretical,,,"1,2",3,,F308,MASHAEL AL MUQBIL
+MIS 204,Business Data Management,3,4,178,201,Practical,,,,"7,8",,F431,Raneem Faisal Almindeel
+MIS 204,Business Data Management,3,4,187,202,Practical,,,"7,8",,,F431,Raneem Faisal Almindeel
+MIS 204,Business Data Management,3,4,191,203,Practical,,,"1,2",,,F431,Raneem Faisal Almindeel
+MIS 204,Business Data Management,3,4,177,201,Theoretical,"1,2",,,,,F305,Raneem Faisal Almindeel
+MIS 204,Business Data Management,3,4,186,202,Theoretical,"4,5",,,,,F304,Raneem Faisal Almindeel
+MIS 204,Business Data Management,3,4,190,203,Theoretical,,,,,"4,5",F305,Raneem Faisal Almindeel
+MIS 221,Fundamentals of E-Commerce,3,,176,201,Practical,,,,,"4,5",F432,ANWAR SALEH AL SHEHRI
+MIS 221,Fundamentals of E-Commerce,3,,185,202,Practical,,,,"4,5",,F432,ANWAR SALEH AL SHEHRI
+MIS 221,Fundamentals of E-Commerce,3,,189,203,Practical,,"7,8",,,,F431,ANWAR SALEH AL SHEHRI
+MIS 221,Fundamentals of E-Commerce,3,,175,201,Theoretical,,,"1,2",,,F305,ANWAR SALEH AL SHEHRI
+MIS 221,Fundamentals of E-Commerce,3,,184,202,Theoretical,"1,2",,,,,F304,ANWAR SALEH AL SHEHRI
+MIS 221,Fundamentals of E-Commerce,3,,188,203,Theoretical,,,,,"7,8",F305,ANWAR SALEH AL SHEHRI
+MIS 305,Intelligent Support Systems in Business,3,4,204,201,Practical,,,,"1,2",,89,MOHAMMED G. QELHAS
+MIS 305,Intelligent Support Systems in Business,3,4,203,201,Theoretical,"1,2",,,,,89,MOHAMMED G. QELHAS
+MIS 344,IS Project Management,3,,194,201,Theoretical,3,,"4,5",,,89,Dr.TAYFOUR ABDALLA MOHAMMED
+MIS 409,Information Resources Management,3,3,205,201,Theoretical,"4,5",,3,,,89,ABDULLAH RASHED AL RUMI
+MIS 414,Knowledge Management,3,3,128,201,Theoretical,,,6,,"1,2",F308,ANWAR SALEH AL SHEHRI
+MIS 420,Enterprise Resource Planning,3,4,209,201,Practical,,"6,7",,,,F432,Tomasa Gilera Bitanga
+MIS 420,Enterprise Resource Planning,3,4,208,201,Theoretical,,,,"6,7",,F334,Tomasa Gilera Bitanga
+SCI 152,General Physics I,4,6,5,201,Practical,,,"4,5,6",,,24,Dr.Mahboob Beevi Yusuf
+SCI 153,General Physics II,4,6,11,201,Practical,,,,"1,2,3",,24,Dr.Usha Natrajan
+SCI 153,General Physics II,4,6,12,203,Practical,,,,"6,7,8",,24,Dr.Usha Natrajan
+SCI 153,General Physics II,4,6,19,202,Practical,,,"1,2,3",,,24,Dr.Mahboob Beevi Yusuf
+SCI 153,General Physics II,4,6,20,204,Practical,,,,,"5,6,7",24,Dr.Mahboob Beevi Yusuf
+SCI 153,General Physics II,4,6,27,205,Practical,,"4,5,6",,,,24,Dr.Usha Natrajan
+SCI 153,General Physics II,4,6,28,206,Practical,,,,,"1,2,3",24,Dr.Mahboob Beevi Yusuf
+SCI 153,General Physics II,4,6,10,201,Theoretical,"4,5",7,,,,F310,Dr.Usha Natrajan
+SCI 153,General Physics II,4,6,18,202,Theoretical,"1,2",8,,,,F311,Dr.Mahboob Beevi Yusuf
+SCI 153,General Physics II,4,6,26,203,Theoretical,"1,2",8,,,,F309,Dr.Usha Natrajan
+BUS 261,Business Communication,3,3,32,201,Theoretical,8,,,"4,5",,BlackBorad,Tomasa Gilera Bitanga
+BUS 261,Business Communication,3,3,45,202,Theoretical,3,,,,"6,7",BlackBord2,Tomasa Gilera Bitanga
+BUS 283,Industrial Psychology,3,3,91,201,Theoretical,"6,7",,7,,,71,Fatimah Abdulaziz Abubshait
+BUS 283,Industrial Psychology,3,3,96,202,Theoretical,8,,"4,5",,,64,Fatimah Abdulaziz Abubshait
+BUS 482,Business Principles and Practices,3,3,56,201,Theoretical,3,,,"6,7",,64,Fatimah Abdulaziz Abubshait
+ENGL 001,English I,8,20,189,290,Listening and,"4,5","2,3",,"6,7","2,3",96,SAWSAN KHALID BIN-MASOUD
+ENGL 001,English I,8,20,188,290,"Reading, Writing","6,7","4,5","6,7","2,3,4,5","6,7",96,JOSEFINA RIVERS SANTOS
+ENGL 002,English II,8,20,148,201,Listening and,,"3,4","6,7","6,7","4,5",23,Rafif Mohammed Althuwayli
+ENGL 002,English II,8,20,152,202,Listening and,"7,8","4,5","4,5","4,5",,24,Julie Mary Odomell
+ENGL 002,English II,8,20,156,203,Listening and,"7,8","5,6",,"5,6","5,6",25,MAILA BERNAL
+ENGL 002,English II,8,20,160,204,Listening and,"3,4","3,4","5,6","3,4",,26,Atheer Abdulrahman Hunjur
+ENGL 002,English II,8,20,164,205,Listening and,"7,8","7,8",,"7,8","5,6",27,ARMELA MARASIGAN MAILIG
+ENGL 002,English II,8,20,168,206,Listening and,,"7,8","7,8","7,8","7,8",28,Hanan Musllem ALBalawi
+ENGL 002,English II,8,20,172,207,Listening and,"7,8","7,8",,"7,8","5,6",29,MILAGROS CORTEZ PEREZ
+ENGL 002,English II,8,20,176,208,Listening and,"5,6","7,8",,"5,6","7,8",94,Raheel Ahmed ALOtaibi
+ENGL 002,English II,8,20,180,209,Listening and,"2,3","2,3","7,8","7,8",,93,NORAH YOUSIF ALJATILY
+ENGL 002,English II,8,20,185,210,Listening and,"6,7","2,3",,"4,5","2,3",95,NAZGUL ABDUKARIMOVA
+ENGL 002,English II,8,20,200,211,Listening and,"7,8","5,6",,"5,6","5,6",97,Tita  Yunting
+ENGL 002,English II,8,20,147,201,"Reading, Writing","4,5,6,7","5,6","4,5","4,5","2,3",23,MILAGROS CORTEZ PEREZ
+ENGL 002,English II,8,20,151,202,"Reading, Writing","5,6","7,8","7,8","7,8","2,3,4,5",24,Tita  Yunting
+ENGL 002,English II,8,20,155,203,"Reading, Writing","3,4","7,8","3,4","3,4,7,8","7,8",25,Rafif Mohammed Althuwayli
+ENGL 002,English II,8,20,159,204,"Reading, Writing","7,8","5,6","7,8","7,8","5,6,7,8",26,Raheel Ahmed ALOtaibi
+ENGL 002,English II,8,20,163,205,"Reading, Writing","3,4","3,4","5,6,7,8","3,4","7,8",27,MAILA BERNAL
+ENGL 002,English II,8,20,167,206,"Reading, Writing","3,4,5,6","5,6","5,6","5,6","5,6",28,NORAH YOUSIF ALJATILY
+ENGL 002,English II,8,20,171,207,"Reading, Writing","5,6","5,6","5,6,7,8","5,6","7,8",29,Atheer Abdulrahman Hunjur
+ENGL 002,English II,8,20,175,208,"Reading, Writing","3,4","5,6","3,4,5,6","7,8","5,6",94,NAZGUL ABDUKARIMOVA
+ENGL 002,English II,8,20,179,209,"Reading, Writing","4,5,6,7","4,5","4,5","4,5","6,7",93,SAWSAN KHALID BIN-MASOUD
+ENGL 002,English II,8,20,184,210,"Reading, Writing","4,5","4,5,6,7","4,5","6,7","4,5",95,JOSEFINA RIVERS SANTOS
+ENGL 002,English II,8,20,199,211,"Reading, Writing","3,4","3,4","3,4","3,4,7,8","3,4",97,ARMELA MARASIGAN MAILIG
+ENGL 004,Communication Skills II,4,4,182,201,Theoretical,,"6,7",,,"4,5",",,,",Julie Mary Odomell
+ENGL 112,English Language Skills II,3,6,86,201,Practical,,"6,7",,"1,2",,90,Ms. Sarah Mohammed ALShahrani
+ENGL 112,English Language Skills II,3,6,94,202,Practical,,"1,2",,"6,7",,90,Dr.BUDOUR IBRAHIM ALBESHR
+ENGL 112,English Language Skills II,3,6,85,201,Theoretical,"4,5",,,,,"90,025",Ms. Sarah Mohammed ALShahrani
+ENGL 112,English Language Skills II,3,6,93,202,Theoretical,"6,7",,,,,90,Dr.BUDOUR IBRAHIM ALBESHR
+ENGL 114,Language Structure I,3,4,84,201,Practical,,,,"4,5",,68,Seemeen  Rana
+ENGL 114,Language Structure I,3,4,83,201,Theoretical,,"4,5",,,,68,Seemeen  Rana
+ENGL 115,Language Structure II,3,5,88,201,Practical,,,,"3,4,5",,90,Monerah Ibraheem ALKhlaifi
+ENGL 115,Language Structure II,3,5,87,201,Theoretical,,"4,5",,,,90,Monerah Ibraheem ALKhlaifi
+ENGL 116,English Pronunciation,3,4,89,201,Practical,,,"1,2",,,58,HUDA MOHAMMED ALGHAMDI
+ENGL 116,English Pronunciation,3,4,90,201,Theoretical,,,,,"1,2",58,HUDA MOHAMMED ALGHAMDI
+ENGL 118,English Composition II,3,3,20,201,Theoretical,8,,"1,2",,,71,Ms. Sarah Mohammed ALShahrani
+ENGL 118,English Composition II,3,3,95,202,Theoretical,,,8,,"4,5",69,Monerah Ibraheem ALKhlaifi
+ENGL 160,Introduction to Language,3,3,92,201,Theoretical,"1,2",,6,,,90,Dr.BUDOUR IBRAHIM ALBESHR
+ENGL 211,Academic Speaking,2,,98,201,Practical,"4,5",,,"1,2",,74,DENISE MAY WRIGHT
+ENGL 211,Academic Speaking,2,,97,201,Theoretical,3,,,,,74,DENISE MAY WRIGHT
+ENGL 212,Public Speaking,2,,105,201,Practical,"4,5",,,"1,2",,58,Dr. Eman ALJehani
+ENGL 212,Public Speaking,2,,104,201,Theoretical,3,,,,,58,Dr. Eman ALJehani
+ENGL 221,Academic Writing,3,,99,201,Theoretical,,,,8,"4,5",74,DENISE MAY WRIGHT
+ENGL 223,Journalistic Writing,3,3,106,201,Theoretical,,,8,,"4,5",64,Dr. Eman ALJehani
+ENGL 223,Journalistic Writing,3,3,111,202,Theoretical,,,"4,5",,3,70,Dr. Eman ALJehani
+ENGL 231,Introduction to Translation,3,3,100,201,Theoretical,,,"4,5",,3,72,Dr.WALAA ALKULAIB
+ENGL 232,Translation Theory and Practice,3,3,107,201,Theoretical,"1,2",,3,,,64,Dr.WALAA ALKULAIB
+ENGL 241,Introduction to Literature,3,3,101,201,Theoretical,,8,,"6,7",,74,AMANI SAMI SALMEEN
+ENGL 242,The Novel,3,3,108,201,Theoretical,,6,,"4,5",,74,Dr.SHEENA GOODARD
+ENGL 251,Teaching English as a Foreign Language,3,3,109,201,Theoretical,,"4,5",,3,,70,Dr.BUDOUR IBRAHIM ALBESHR
+ENGL 262,Applied Linguistics,3,3,102,201,Theoretical,"1,2",,6,,,74,Dr. Eman ALJehani
+ENGL 265,Phonetics and Phonology,3,,110,201,Theoretical,,,7,,"1,2",64,Monerah Ibraheem ALKhlaifi
+ENGL 324,Creative Writing,3,3,128,201,Theoretical,,"6,7",,7,,"69,69,68",Seemeen  Rana
+ENGL 335,Introduction to Interpreting,3,,120,201,Theoretical,3,,"4,5",,,90,Ms. Sarah Mohammed ALShahrani
+ENGL 335,Introduction to Interpreting,3,,123,202,Theoretical,"1,2",,,3,,68,Ms. Sarah Mohammed ALShahrani
+ENGL 343,Drama,3,3,119,201,Theoretical,,"4,5",,,3,74,Dr.SHEENA GOODARD
+ENGL 343,Drama,3,3,124,202,Theoretical,3,,"4,5",,,91,Dr.SHEENA GOODARD
+ENGL 344,Poetry,3,3,113,201,Theoretical,,6,,"4,5",,91,AMANI SAMI SALMEEN
+ENGL 345,Contemporary Literature,3,3,114,201,Theoretical,"6,7",,,6,,68,Dr.SHEENA GOODARD
+ENGL 351,Computer Assisted Language Learing,2,,115,201,Practical,2,,,"7,8",,58,FILIZ KALALI
+ENGL 351,Computer Assisted Language Learing,2,,116,201,Theoretical,1,,,,,58,FILIZ KALALI
+ENGL 353,Curriculum Design in TEFL,3,3,125,202,Theoretical,,"4,5",,8,,72,ARZOO WASIM MUHAMMAD WASIM
+ENGL 354,Language Testing,3,,117,201,Theoretical,,"1,2",,,6,68,DENISE MAY WRIGHT
+ENGL 354,Language Testing,3,,118,202,Theoretical,,,,,,,***
+ENGL 363,Morphology and Syntax,3,,127,201,Theoretical,,,8,,"4,5",90,HUDA MOHAMMED ALGHAMDI
+ENGL 365,Phonology,3,3,139,201,Theoretical,"4,5",,,6,,"69,69,72",Monerah Ibraheem ALKhlaifi
+ENGL 366,Psycholinguistics,3,3,121,201,Theoretical,7,,"1,2",,,"74,70,70",FILIZ KALALI
+ENGL 366,Psycholinguistics,3,3,126,202,Theoretical,"4,5",,6,,,62,FILIZ KALALI
+ENGL 446,Literary Criticism,3,3,132,201,Theoretical,,,6,,"1,2",70,Dr.SHEENA GOODARD
+ENGL 456,Second Language Learning,3,,133,201,Theoretical,,"1,2",,,6,"69,69,69",ARZOO WASIM MUHAMMAD WASIM
+ENGL 456,Second Language Learning,3,,136,202,Theoretical,,8,,"1,2",,69,ARZOO WASIM MUHAMMAD WASIM
+ENGL 466,Semantics and Pragmatics,3,,130,201,Theoretical,,"4,5",,,3,50,HUDA MOHAMMED ALGHAMDI
+ENGL 467,Discourse Analysis,3,,131,201,Theoretical,,"6,7",,,7,"71,71,70",Dr.WALAA ALKULAIB
+ENGL 469,Semantics,3,,138,201,Theoretical,,,,"4,5",7,"70,70,74",HUDA MOHAMMED ALGHAMDI
+GES 006,Study Skills,1,,146,201,Theoretical,,2,,,,BlackBord2,Aeshah Hussain Niyazi
+GES 006,Study Skills,1,,150,401,Theoretical,,2,,,,BlackBord2,Aeshah Hussain Niyazi
+GES 006,Study Skills,1,,154,202,Theoretical,,3,,,,BlackBorad,Aeshah Hussain Niyazi
+GES 006,Study Skills,1,,158,203,Theoretical,,,2,,,BlackBord1,Aeshah Hussain Niyazi
+GES 006,Study Skills,1,,162,403,Theoretical,,,2,,,BlackBord2,Aeshah Hussain Niyazi
+GES 006,Study Skills,1,,166,204,Theoretical,,,3,,,BlackBorad,Aeshah Hussain Niyazi
+GES 006,Study Skills,1,,170,404,Theoretical,,,3,,,BlackBorad,Aeshah Hussain Niyazi
+GES 006,Study Skills,1,,174,402,Theoretical,,3,,,,BlackBord1,Aeshah Hussain Niyazi
+GES 006,Study Skills,1,,178,205,Theoretical,,,,6,,BlackBorad,Aeshah Hussain Niyazi
+GES 006,Study Skills,1,,183,206,Theoretical,,,8,,,BlackBord1,Aeshah Hussain Niyazi
+GES 021,Math I,3,,190,290,Theoretical,"2,3",,2,,,96,Asmaa Hazza Alshamrani
+GES 021,Math I,3,,193,291,Theoretical,"5,6",,7,,,91,Asmaa Hazza Alshamrani
+GES 022,Math II,4,,149,201,Theoretical,"2,3",,"2,3",,,23,SAMREEN FATIMA
+GES 022,Math II,4,,153,202,Theoretical,"2,3",,"2,3",,,24,NAILA KELSOOM
+GES 022,Math II,4,,157,203,Theoretical,"5,6",,"5,6",,,25,Khaznah Mohammed AL Khaldi
+GES 022,Math II,4,,161,204,Theoretical,"5,6",,,"5,6",,26,NAILA KELSOOM
+GES 022,Math II,4,,165,205,Theoretical,"5,6",,,"5,6",,27,HASINA KHAN
+GES 022,Math II,4,,169,206,Theoretical,,"3,4",,"3,4",,28,HASINA KHAN
+GES 022,Math II,4,,173,207,Theoretical,,"3,4",,"3,4",,29,NAILA KELSOOM
+GES 022,Math II,4,,177,208,Theoretical,"7,8",,"7,8",,,94,SAMREEN FATIMA
+GES 022,Math II,4,,181,209,Theoretical,"5,6",,"5,6",,,97,Ms. Abeer Saad ALjohani
+GES 022,Math II,4,,186,210,Theoretical,"2,3",,"2,3",,,95,Khaznah Mohammed AL Khaldi
+GS 142,Health Education II,1,2,31,201,Practical,,,5,,,74,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,44,202,Practical,,,2,,,74,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,30,201,Theoretical,,,4,,,74,Ann Margrette Mehoy Allida
+GS 142,Health Education II,1,2,43,202,Theoretical,,,1,,,74,Ann Margrette Mehoy Allida
+GS 262,Arabic Professional Writing,2,2,49,201,Theoretical,,,"4,5",,,69,NADIA THUBAIT ALSHAREEF
+GS 262,Arabic Professional Writing,2,2,57,202,Theoretical,,,"1,2",,,90,NADIA THUBAIT ALSHAREEF
+GS 272,Professional Ethics,2,2,19,201,Theoretical,"6,7",,,,,70,MEIAD SULEAMAN ALSHAHARI
+GS 363,Arabic Communication Skills,2,2,129,201,Theoretical,,"6,7",,,,70,Abrar Abdulrahman ALDakail
+GS 373,Human Rights in Islam,2,2,50,201,Theoretical,,,,"6,7",,69,MEIAD SULEAMAN ALSHAHARI
+GS 373,Human Rights in Islam,2,2,58,202,Theoretical,,,,"4,5",,69,MEIAD SULEAMAN ALSHAHARI
+ID 103,Art Appreciation,3,3,3,201,Theoretical,,"1,2",,8,,BlackBorad,Rahaf Hassan ALHarbi
+ID 103,Art Appreciation,3,3,4,401,Theoretical,,"1,2",,8,,BlackBord1,Rahaf Hassan ALHarbi
+ID 134,Technical Drawings for interiors,3,,2,201,Practical,,,,,"6,7,8",65,Dr.Hebatallah Mohammed
+ID 134,Technical Drawings for interiors,3,,10,202,Practical,,"6,7,8",,,,65,Dr.Hebatallah Mohammed
+ID 134,Technical Drawings for interiors,3,,17,203,Practical,,,,"3,4,5",,65,Dr.Hebatallah Mohammed
+ID 134,Technical Drawings for interiors,3,,1,201,Theoretical,,,,,"4,5",65,Dr.Hebatallah Mohammed
+ID 134,Technical Drawings for interiors,3,,9,202,Theoretical,,"4,5",,,,65,Dr.Hebatallah Mohammed
+ID 134,Technical Drawings for interiors,3,,16,203,Theoretical,,,,"1,2",,65,Dr.Hebatallah Mohammed
+ID 207,Building Construction,3,3,22,201,Practical,,,,,"6,7",72,Dr.ASMAA RAMADAN  ELANTARY
+ID 207,Building Construction,3,3,34,202,Practical,,,,"4,5",,71,Dr.ASMAA RAMADAN  ELANTARY
+ID 207,Building Construction,3,3,47,203,Practical,,,,,"4,5",72,Dr.ASMAA RAMADAN  ELANTARY
+ID 207,Building Construction,3,3,21,201,Theoretical,,,"1,2",,,72,Dr.ASMAA RAMADAN  ELANTARY
+ID 207,Building Construction,3,3,33,202,Theoretical,,"4,5",,,,71,Dr.ASMAA RAMADAN  ELANTARY
+ID 207,Building Construction,3,3,46,203,Theoretical,,"1,2",,,,71,Dr.ASMAA RAMADAN  ELANTARY
+ID 210,Human Factors,3,3,5,201,Theoretical,3,,"4,5",,,68,Soha Aali Alessa
+ID 210,Human Factors,3,3,11,202,Theoretical,,,6,,"6,7",71,Soha Aali Alessa
+ID 211,Interior Design Studio II,3,9,24,201,Practical,,"5,6,7,8",,,"1,2,3,4",67,Bashayr Abdullah Al Fehaed
+ID 211,Interior Design Studio II,3,9,36,202,Practical,"4,5,6",,"4,5,6,7,8",,,67,Bashayr Abdullah Al Fehaed
+ID 211,Interior Design Studio II,3,9,23,201,Theoretical,,4,,,,67,Bashayr Abdullah Al Fehaed
+ID 211,Interior Design Studio II,3,9,35,202,Theoretical,3,,,,,67,Bashayr Abdullah Al Fehaed
+ID 213,"Materials, Resources and Textiles for",3,4,26,201,Practical,,,,"1,2",,70,Roaa Mohammed ALShehri
+ID 213,"Materials, Resources and Textiles for",3,4,37,202,Practical,,"1,2",,,,72,Roaa Mohammed ALShehri
+ID 213,"Materials, Resources and Textiles for",3,4,39,203,Practical,,,,"4,5",,72,Roaa Mohammed ALShehri
+ID 213,"Materials, Resources and Textiles for",3,4,25,201,Theoretical,"1,2",,,,,72,Roaa Mohammed ALShehri
+ID 213,"Materials, Resources and Textiles for",3,4,195,202,Theoretical,,,,,"1,2",72,Roaa Mohammed ALShehri
+ID 213,"Materials, Resources and Textiles for",3,4,196,203,Theoretical,,"4,5",,,,64,Roaa Mohammed ALShehri
+ID 315,Portfolio Preparation/ Presentation,2,2,51,201,Theoretical,,,"1,2",,,62,Roaa Mohammed ALShehri
+ID 315,Portfolio Preparation/ Presentation,2,2,59,202,Theoretical,,,,,"6,7",62,Roaa Mohammed ALShehri
+ID 315,Portfolio Preparation/ Presentation,2,2,197,203,Theoretical,"6,7",,,,,62,Roaa Mohammed ALShehri
+ID 317,History of Interior Architecture II,3,3,27,201,Theoretical,"4,5",,,3,,71,RAWAN ABDULLAH ALGHAMDI
+ID 317,History of Interior Architecture II,3,3,40,202,Theoretical,2,,,"6,7",,91,RAWAN ABDULLAH ALGHAMDI
+ID 318,Computer Aided Drafting ( CAD ) for,2,5,28,201,Practical,,2,,"6,7,8",,62,Ruaa Saleh ALAbeedi
+ID 318,Computer Aided Drafting ( CAD ) for,2,5,41,202,Practical,,"7,8",,"1,2",,62,Ruaa Saleh ALAbeedi
+ID 318,Computer Aided Drafting ( CAD ) for,2,5,29,201,Theoretical,,1,,,,62,Ruaa Saleh ALAbeedi
+ID 318,Computer Aided Drafting ( CAD ) for,2,5,42,202,Theoretical,,6,,,,62,Ruaa Saleh ALAbeedi
+ID 322,Interior Design Studio IV,3,9,53,201,Practical,,"5,6,7,8",,,"1,2,3,4",63,SARA SHARAFALDEEN
+ID 322,Interior Design Studio IV,3,9,61,202,Practical,"5,6,7",,"4,5,6,7,8",,,65,SARA SHARAFALDEEN
+ID 322,Interior Design Studio IV,3,9,63,203,Practical,,,"5,6,7,8",,"5,6,7,8",63,RAWAN ABDULLAH ALGHAMDI
+ID 322,Interior Design Studio IV,3,9,52,201,Theoretical,,4,,,,63,SARA SHARAFALDEEN
+ID 322,Interior Design Studio IV,3,9,60,202,Theoretical,4,,,,,65,SARA SHARAFALDEEN
+ID 322,Interior Design Studio IV,3,9,62,203,Theoretical,,,4,,,63,RAWAN ABDULLAH ALGHAMDI
+ID 335,Advanced Presentation Skills,3,,55,201,Practical,,,"6,7,8",,,BlackBorad,Ruaa Saleh ALAbeedi
+ID 335,Advanced Presentation Skills,3,,65,202,Practical,,,,,"1,2,3",BlackBorad,Ruaa Saleh ALAbeedi
+ID 335,Advanced Presentation Skills,3,,54,201,Theoretical,"4,5",,,,,BlackBorad,Ruaa Saleh ALAbeedi
+ID 335,Advanced Presentation Skills,3,,64,202,Theoretical,,,"1,2",,,BlackBorad,Ruaa Saleh ALAbeedi
+ID 424,Furniture Design and Interior Treatments,3,4,68,201,Practical,,,,"1,2",,71,Soha Aali Alessa
+ID 424,Furniture Design and Interior Treatments,3,4,73,202,Practical,,,,"4,5",,64,Soha Aali Alessa
+ID 424,Furniture Design and Interior Treatments,3,4,77,203,Practical,,,"1,2",,,64,Soha Aali Alessa
+ID 424,Furniture Design and Interior Treatments,3,4,67,201,Theoretical,"1,2",,,,,71,Soha Aali Alessa
+ID 424,Furniture Design and Interior Treatments,3,4,72,202,Theoretical,,"6,7",,,,64,Soha Aali Alessa
+ID 424,Furniture Design and Interior Treatments,3,4,76,203,Theoretical,"6,7",,,,,64,Soha Aali Alessa
+ID 432,Contemporary Furniture Design,3,3,198,201,Theoretical,"1,2,3",,,,,70,Dr.Hebatallah Mohammed
+ID 433,Safety in Buildings,3,3,66,201,Theoretical,3,,"4,5",,,"72,71,71",Dr.ASMAA RAMADAN  ELANTARY
+ID 433,Safety in Buildings,3,3,71,202,Theoretical,"4,5",,,7,,72,Dr.ASMAA RAMADAN  ELANTARY
+MIT 012,Introduction to Computer,1,,187,290,Practical,,,8,,,BlackBord2,***
+SCI 154,General Chemistry,4,6,143,201,Practical,,,,"1,2,3",,77,Aeshah Hussain Niyazi
+SCI 155,Physics for Inerior Design,3,5,7,201,Practical,,,,"1,2,3",,54,Dr.NAWAL SAEED ALQAHTANI
+SCI 155,Physics for Inerior Design,3,5,14,203,Practical,,,,,"1,2,3",54,Dr.NAWAL SAEED ALQAHTANI
+SCI 155,Physics for Inerior Design,3,,6,201,Theoretical,"1,2",,,,,69,Dr.NAWAL SAEED ALQAHTANI

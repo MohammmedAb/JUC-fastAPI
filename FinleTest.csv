@@ -1,0 +1,503 @@
+Course Code,Course name,CR,CT,S. Seq,SC,Activity,SUN,MON,TUE,WED,THU,Room No,STAFF
+ACCT 121,Introduction to Financial Accounting I,3,,363,101,Practical,,,,,"1,2,3",BlackBord1,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,365,301,Practical,,,,,"1,2,3",BlackBord1,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,367,501,Practical,,,,,"1,2,3",BlackBord1,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,430,102,Practical,,,,"4,5,6",,BlackBord1,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,432,302,Practical,,,,"4,5,6",,BlackBord1,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,469,103,Practical,,,,,"4,5,6",BlackBord2,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,471,303,Practical,,,,,"4,5,6",BlackBord2,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,495,104,Practical,,,,"4,5,6",,BlackBord2,MUNIR HUSAIN
+ACCT 121,Introduction to Financial Accounting I,3,,497,304,Practical,,,,"4,5,6",,BlackBord2,MUNIR HUSAIN
+ACCT 121,Introduction to Financial Accounting I,3,,362,101,Theoretical,,"4,5",,,,BlackBord1,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,364,301,Theoretical,,"4,5",,,,BlackBord1,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,366,501,Theoretical,,"4,5",,,,BlackBord1,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,429,102,Theoretical,,"6,7",,,,BlackBord1,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,431,302,Theoretical,,"6,7",,,,BlackBord1,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,468,103,Theoretical,,,"1,2",,,BlackBord2,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,470,303,Theoretical,,,"1,2",,,BlackBord2,MOHAMMED AL-JABER
+ACCT 121,Introduction to Financial Accounting I,3,,494,104,Theoretical,,"1,2",,,,BlackBord2,MUNIR HUSAIN
+ACCT 121,Introduction to Financial Accounting I,3,,496,304,Theoretical,,"1,2",,,,BlackBord2,MUNIR HUSAIN
+ACCT 224,Cost Accounting,3,,389,101,Theoretical,,6,,,"1,2",114,Dr.ASIF BAIG
+ACCT 303,Intermediate Accounting I,3,,420,101,Theoretical,6,,,"1,2",,114,Dr.ASIF BAIG
+ACCT 304,International Accounting,3,,487,101,Theoretical,,,"4,5",,3,122,Dr.ASIF BAIG
+ACCT 305,Accounting for Governmental and Non-,3,,488,101,Theoretical,"6,7",,,3,,BlackBord4,MOHAMMED AL-JABER
+ACCT 429,Financial Statement Analysis,3,,486,101,Practical,,,,,"4,5",BlackBord1,MUNIR HUSAIN
+ACCT 429,Financial Statement Analysis,3,,485,101,Theoretical,,,"6,7",,,BlackBord1,MUNIR HUSAIN
+ACCT 434,Corporate Financial Reporting,3,,491,101,Theoretical,"1,2",,8,,,BlackBord4,Dr.ASIF BAIG
+ACCT 443,Zakat and Business Tax Accounting,3,,493,101,Theoretical,,"6,7",,,6,BlackBord2,Amal Mohammed Mobrad
+ACCT 444,Advanced Accounting,3,,489,101,Theoretical,8,,"1,2",,,BlackBord2,Dr.HUMERA SHAHID
+ACCT 444,Advanced Accounting,3,,490,301,Theoretical,8,,"1,2",,,BlackBord2,Dr.HUMERA SHAHID
+ACCT 457,Auditing,3,,492,101,Theoretical,,"1,2",,6,,BlackBord1,Dr.ASIF BAIG
+BUS 151,Microeconomics,3,3,427,102,Theoretical,,"1,2",,,6,127,Dr.ABU SHARIQ
+BUS 152,Macroeconomics,3,3,368,101,Theoretical,3,,,"1,2",,121,Dr.ABU SHARIQ
+BUS 152,Macroeconomics,3,3,467,102,Theoretical,,8,,,"1,2",119,Dr.ABU SHARIQ
+BUS 152,Macroeconomics,3,3,503,103,Theoretical,7,,"6,7",,,127,Dr.ABU SHARIQ
+BUS 223,Financial Management,3,3,384,101,Theoretical,,"4,5",,,3,114,Dr.ABU SHARIQ
+BUS 223,Financial Management,3,3,509,102,Theoretical,,"4,5",,,3,"110,110,119",MUNIR HUSAIN
+BUS 223,Financial Management,3,3,510,103,Theoretical,"4,5",,8,,,"127,127,119",MUNIR HUSAIN
+BUS 231,Principles of Marketing,3,3,379,101,Theoretical,,"7,8",,8,,BlackBord1,Dr.WALEED Y. AL-YOUSEF
+BUS 231,Principles of Marketing,3,3,380,301,Theoretical,,"7,8",,8,,BlackBord1,Dr.WALEED Y. AL-YOUSEF
+BUS 231,Principles of Marketing,3,3,381,501,Theoretical,,"7,8",,8,,BlackBord1,Dr.WALEED Y. AL-YOUSEF
+BUS 242,Operations Research,3,3,385,101,Theoretical,,"1,2",,3,,BlackBord1,SABITHA NIKETH
+BUS 242,Operations Research,3,3,386,301,Theoretical,,"1,2",,3,,BlackBord1,SABITHA NIKETH
+BUS 243,Total Quality Management,3,3,382,101,Theoretical,"6,7",,8,,,BlackBord1,Dr.ISHAQ KALANTHER
+BUS 243,Total Quality Management,3,3,383,301,Theoretical,"6,7",,8,,,BlackBord1,Dr.ISHAQ KALANTHER
+BUS 261,Business Communication,3,3,233,101,Theoretical,"9,10",,9,,,BB,AHMED A. AL-HEBSHI
+BUS 261,Business Communication,3,3,234,102,Theoretical,,,10,"9,10",,BB,AHMED A. AL-HEBSHI
+BUS 261,Business Communication,3,3,392,301,Theoretical,"9,10",,9,,,BlackBord1,AHMED A. AL-HEBSHI
+BUS 261,Business Communication,3,3,393,302,Theoretical,,,10,"9,10",,BlackBord1,AHMED A. AL-HEBSHI
+BUS 261,Business Communication,3,3,453,501,Theoretical,"9,10",,9,,,BlackBord1,AHMED A. AL-HEBSHI
+BUS 261,Business Communication,3,3,454,502,Theoretical,,,10,"9,10",,BlackBord1,AHMED A. AL-HEBSHI
+BUS 261,Business Communication,3,3,483,701,Theoretical,"9,10",,9,,,BlackBord1,AHMED A. AL-HEBSHI
+BUS 261,Business Communication,3,3,484,702,Theoretical,,,10,"9,10",,BlackBord1,AHMED A. AL-HEBSHI
+BUS 305,Legal Environment,3,3,402,101,Theoretical,,"10,11",,11,,BlackBord1,ABDULAZIZ AL-JARBOU
+BUS 305,Legal Environment,3,3,403,301,Theoretical,,"10,11",,11,,BlackBord1,ABDULAZIZ AL-JARBOU
+BUS 305,Legal Environment,3,3,404,501,Theoretical,,"10,11",,11,,BlackBord1,ABDULAZIZ AL-JARBOU
+BUS 305,Legal Environment,3,3,405,701,Theoretical,,"10,11",,11,,BlackBord2,ABDULAZIZ AL-JARBOU
+BUS 305,Legal Environment,3,3,406,901,Theoretical,,"10,11",,11,,BlackBord1,ABDULAZIZ AL-JARBOU
+BUS 313,Organizational Behavior and Design,3,3,408,101,Theoretical,,8,,"4,5",,BlackBord2,Dr.VIQUAR MIRZA AHMED
+BUS 313,Organizational Behavior and Design,3,3,409,301,Theoretical,,8,,"4,5",,BlackBord2,Dr.VIQUAR MIRZA AHMED
+BUS 313,Organizational Behavior and Design,3,3,410,501,Theoretical,,8,,"4,5",,BlackBord2,Dr.VIQUAR MIRZA AHMED
+BUS 313,Organizational Behavior and Design,3,3,411,701,Theoretical,,8,,"4,5",,BlackBord2,Dr.VIQUAR MIRZA AHMED
+BUS 321,Business Research Methods,3,3,396,101,Theoretical,"1,2",,8,,,BlackBord2,Dr.GILBERT M. TALAUE
+BUS 321,Business Research Methods,3,3,397,301,Theoretical,"1,2",,8,,,BlackBord2,Dr.GILBERT M. TALAUE
+BUS 321,Business Research Methods,3,3,398,501,Theoretical,"1,2",,8,,,BlackBord2,Dr.GILBERT M. TALAUE
+BUS 321,Business Research Methods,3,3,511,102,Theoretical,,,"1,2",,8,BlackBord4,Dr.GILBERT M. TALAUE
+BUS 321,Business Research Methods,3,3,512,302,Theoretical,,,"1,2",,8,BlackBord4,Dr.GILBERT M. TALAUE
+BUS 321,Business Research Methods,3,3,513,503,Theoretical,,,"1,2",,8,BlackBord4,Dr.GILBERT M. TALAUE
+BUS 325,Investment,3,3,399,101,Theoretical,,7,,,"4,5",BlackBord1,Reem Fahad AlZumaia
+BUS 335,Sales Management,3,3,415,101,Theoretical,3,,"1,2",,,114,Dr.ISHAQ KALANTHER
+BUS 337,Integrated Marketing Communication,3,3,416,101,Theoretical,,,"4,5",,6,114,Dr.ISHAQ KALANTHER
+BUS 344,Project Management,3,3,400,101,Theoretical,,"4,5",,,3,BlackBord2,ABDULLAH S. AL-SAGOUB
+BUS 344,Project Management,3,3,401,301,Theoretical,,"4,5",,,3,BlackBord3,ABDULLAH S. AL-SAGOUB
+BUS 411,Strategic Management,3,3,423,101,Theoretical,,9,,,"1,2",BlackBord1,Dr.VIQUAR MIRZA AHMED
+BUS 411,Strategic Management,3,3,424,301,Theoretical,,9,,,"1,2",BlackBord1,Dr.VIQUAR MIRZA AHMED
+BUS 413,Entrepreneurship,3,,421,101,Theoretical,8,,,"7,8",,BlackBord1,ABDULLAH S. AL-SAGOUB
+BUS 416,Business Ethics,3,,539,101,Theoretical,"6,7",,8,,,BlackBord2,ABDULLAH S. AL-SAGOUB
+BUS 426,Financial Institutions,3,3,413,101,Theoretical,"4,5",,,6,,"112,112,127",Dr.ABU SHARIQ
+BUS 431,Project Feasibility Analysis,3,3,422,301,Theoretical,8,,,"7,8",,BlackBord1,ABDULLAH S. AL-SAGOUB
+CE 201,Statics,3,3,128,101,Theoretical,,1,,,"4,5",ME324,Dr.SYED YOUSUFUDDIN
+CE 201,Statics,3,3,133,102,Theoretical,,2,,"1,2",,ME324,Dr.SYED YOUSUFUDDIN
+CE 201,Statics,3,3,269,103,Theoretical,"4,5",7,,,,CE278,THAVASU MONY DHASAN
+CE 201,Statics,3,3,283,104,Theoretical,3,,"7,8",,,CE278,THAVASU MONY DHASAN
+CE 202,Computer Graphics,3,7,293,101,Practical,,,,"4,5,6",,154,SHAHNAWAZ ALAM
+CE 202,Computer Graphics,3,7,294,101,Theoretical,,"1,2",,,,154,SHAHNAWAZ ALAM
+CE 204,Structural Mechanics I,3,3,295,101,Theoretical,,,"1,2",2,,165,THAVASU MONY DHASAN
+CE 205,Engineering Fluid Mechanics,3,3,296,101,Theoretical,"4,5",,6,,,CE243,Dr.MUHAMMAD SALEEM
+CE 206,Surveying,3,5,303,101,Practical,,,,"1,2,3",,CE278,HATEM MOHAMMED AL GHAMDI
+CE 206,Surveying,3,5,304,102,Practical,,,,"6,7,8",,CE 271C,HATEM MOHAMMED AL GHAMDI
+CE 206,Surveying,3,5,305,103,Practical,,,,,"6,7,8",CE 271C,HATEM MOHAMMED AL GHAMDI
+CE 206,Surveying,3,5,301,101,Theoretical,,,"1,2",,,CE279,HATEM MOHAMMED AL GHAMDI
+CE 206,Surveying,3,5,302,102,Theoretical,,,"4,5",,,CE279,HATEM MOHAMMED AL GHAMDI
+CE 308,Structural Materials,4,6,307,101,Practical,,"6,7,8",,,,CE 280C,JOONAITH CHUNDAN VEEDU
+CE 308,Structural Materials,4,6,306,101,Theoretical,"1,2",,5,,,"CE279,CE279,CE278",JOONAITH CHUNDAN VEEDU
+CE 309,Structural Analysis I,3,3,308,101,Theoretical,"4,5",,4,,,"CE279,CE279,CE278",SYED KHALEEQ AHMAD
+CE 311,Engineering Hydrology I,3,5,316,101,Practical,,,,"6,7,8",,CE 271B,Dr.YASIR SALIH AHMED ALI
+CE 311,Engineering Hydrology I,3,5,317,102,Practical,,,,,"6,7,8",CE 271B,Dr.YASIR SALIH AHMED ALI
+CE 311,Engineering Hydrology I,3,5,315,101,Theoretical,,,"1,2",,,CE243,Dr.YASIR SALIH AHMED ALI
+CE 312,Reinforced Concrete I,3,5,319,101,Practical,,,"6,7,8",,,CE 271B,SHAHNAWAZ ALAM
+CE 312,Reinforced Concrete I,3,5,318,101,Theoretical,,"7,8",,,,CE243,SHAHNAWAZ ALAM
+CE 315,Geotechnical Engineering I,4,6,310,101,Practical,,,,,"1,2,3",CE 280A,THAVASU MONY DHASAN
+CE 315,Geotechnical Engineering I,4,6,311,102,Practical,,,,,"6,7,8",CE 280A,THAVASU MONY DHASAN
+CE 315,Geotechnical Engineering I,4,6,309,101,Theoretical,"7,8",,,5,,CE278,THAVASU MONY DHASAN
+CE 317,Environmental Engineering Principles,3,,297,101,Theoretical,,"7,8",,7,,CE279,Dr.MUHAMMAD SALEEM
+CE 317,Environmental Engineering Principles,3,,300,102,Theoretical,,,"7,8",,7,CE279,Dr.MUHAMMAD SALEEM
+CE 318,Transportation Engineering,4,,321,101,Practical,,,,"1,2,3",,CE 271C,NABEEL MAHMOOD ABDELSATAR
+CE 318,Transportation Engineering,4,,322,102,Practical,,,,,"1,2,3",CE 271C,NABEEL MAHMOOD ABDELSATAR
+CE 318,Transportation Engineering,4,,320,101,Theoretical,"1,2",,4,,,165,NABEEL MAHMOOD ABDELSATAR
+CE 418,Computational Mechanics,3,,335,101,Theoretical,3,,,"9,10",,150,JOONAITH CHUNDAN VEEDU
+CE 419,Construction Methods and Management,3,,336,101,Theoretical,,"4,5",5,,,CE243,NABEEL MAHMOOD ABDELSATAR
+CE 422,Steel Design I,3,5,332,101,Practical,,,,"4,5,6",,CE243,SYED KHALEEQ AHMAD
+CE 422,Steel Design I,3,5,331,101,Theoretical,,"1,2",,,,CE243,SYED KHALEEQ AHMAD
+CE 427,Hydraulic Engineering,3,3,333,101,Theoretical,,,"1,2",,5,CE278,JOONAITH CHUNDAN VEEDU
+CE 432,Design of Pavement,3,3,334,101,Theoretical,,"4,5",,7,,"CE278,CE278,CE243",THAVASU MONY DHASAN
+CE 438,Foundation of Earth Structure Design,3,3,548,101,Theoretical,"7,8",,5,,,"CE279,CE279,CE 271A",Dr.YASIR SALIH AHMED ALI
+CE 443,Construction Estimating and Costing,3,,323,101,Theoretical,"4,5",,,,3,165,SHAHNAWAZ ALAM
+CE 452,Design Project I,1,,324,101,Practical,"1,2,3",,,,,BlackBoard,SHAHNAWAZ ALAM
+CE 452,Design Project I,1,,325,102,Practical,"6,7,8",,,,,BlackBoard,SYED KHALEEQ AHMAD
+CE 452,Design Project I,1,,326,103,Practical,,,"6,7,8",,,",,",NABEEL MAHMOOD ABDELSATAR
+CE 452,Design Project I,1,,327,104,Practical,,,"6,7,8",,,",,",JOONAITH CHUNDAN VEEDU
+CE 453,Design Project II,3,,337,101,Practical,,"9,10,11",,,,",,",SYED KHALEEQ AHMAD
+CE 453,Design Project II,3,,339,102,Practical,,,,"9,10,11",,",,",SYED KHALEEQ AHMAD
+CE 453,Design Project II,3,,341,103,Practical,,"9,10,11",,,,",,",JOONAITH CHUNDAN VEEDU
+CE 453,Design Project II,3,,343,104,Practical,,,,"9,10,11",,",,",Dr.MUHAMMAD SALEEM
+CE 453,Design Project II,3,,345,105,Practical,,"9,10,11",,,,",,",SHAHNAWAZ ALAM
+CE 453,Design Project II,3,,347,106,Practical,,"9,10,11",,,,",,",THAVASU MONY DHASAN
+CE 453,Design Project II,3,,338,101,Theoretical,"9,10",,,,,",",SYED KHALEEQ AHMAD
+CE 453,Design Project II,3,,340,102,Theoretical,,,"9,10",,,",",SYED KHALEEQ AHMAD
+CE 453,Design Project II,3,,342,103,Theoretical,"9,10",,,,,",",JOONAITH CHUNDAN VEEDU
+CE 453,Design Project II,3,,344,104,Theoretical,,,"9,10",,,",",Dr.MUHAMMAD SALEEM
+CE 453,Design Project II,3,,346,105,Theoretical,"9,10",,,,,",",SHAHNAWAZ ALAM
+CE 453,Design Project II,3,,348,106,Theoretical,"9,10",,,,,",",THAVASU MONY DHASAN
+CS 110,Computer Programming,3,,109,102,Practical,,,,,"6,7,8",103,ABDULHADI AL ZAIDY
+CS 110,Computer Programming,3,,119,103,Practical,,,,,"6,7,8",104,Dr.ALI HUSSAIN AL KHALIFAH
+CS 110,Computer Programming,3,,126,106,Practical,,,,,"7,8,9",106,Dr.SADIQ AHMED BUGTI
+CS 110,Computer Programming,3,,274,101,Practical,,,,"7,8,9",,103,ABDULHADI AL ZAIDY
+CS 110,Computer Programming,3,,286,104,Practical,,,,"4,5,6",,105,Dr.ALI HUSSAIN AL KHALIFAH
+CS 110,Computer Programming,3,,292,105,Practical,,,,"4,5,6",,104,MAMOUN AHMED ZAIN
+CS 110,Computer Programming,3,,108,102,Theoretical,,,"4,5",,,103,ABDULHADI AL ZAIDY
+CS 110,Computer Programming,3,,118,103,Theoretical,,,"4,5",,,104,Dr.ALI HUSSAIN AL KHALIFAH
+CS 110,Computer Programming,3,,125,106,Theoretical,,"1,2",,,,106,Dr.SADIQ AHMED BUGTI
+CS 110,Computer Programming,3,,273,101,Theoretical,,"1,2",,,,103,ABDULHADI AL ZAIDY
+CS 110,Computer Programming,3,,285,104,Theoretical,,"4,5",,,,103,Dr.ALI HUSSAIN AL KHALIFAH
+CS 110,Computer Programming,3,,291,105,Theoretical,,,"1,2",,,104,MAMOUN AHMED ZAIN
+CS 120,Programming I,3,,7,101,Practical,,,,"4,5,6",,103,ABDULHADI AL ZAIDY
+CS 120,Programming I,3,,15,102,Practical,,,,,"3,4,5",103,ABDULHADI AL ZAIDY
+CS 120,Programming I,3,,22,103,Practical,,,,"1,2,3",,103,ABDULHADI AL ZAIDY
+CS 120,Programming I,3,,6,101,Theoretical,"4,5",,,,,103,ABDULHADI AL ZAIDY
+CS 120,Programming I,3,,14,102,Theoretical,,"7,8",,,,103,ABDULHADI AL ZAIDY
+CS 204,Discrete Structures II,3,3,34,301,Theoretical,"1,2",,7,,,112,Dr.ALI HUSSAIN AL KHALIFAH
+CS 230,Digital Logic Design,4,,26,101,Practical,,,,"6,7,8",,106,Dr.SADIQ AHMED BUGTI
+CS 230,Digital Logic Design,4,,25,101,Theoretical,"4,5",4,,,,106,Dr.SADIQ AHMED BUGTI
+CS 231,Programming II,4,,28,101,Practical,,,"6,7,8",,,101,Dr.MOHAMED YASSINE EL AMRANI
+CS 231,Programming II,4,,27,101,Theoretical,6,"7,8",,,,101,Dr.MOHAMED YASSINE EL AMRANI
+CS 232,Discrete Structures I,3,,29,101,Theoretical,,"1,2",,3,,112,Dr.ALI HUSSAIN AL KHALIFAH
+CS 240,Discrete Structures II,3,,33,101,Theoretical,"1,2",,7,,,112,Dr.ALI HUSSAIN AL KHALIFAH
+CS 240,Discrete Structures II,3,,41,102,Theoretical,"7,8",,8,,,112,Dr.ALI HUSSAIN AL KHALIFAH
+CS 241,Data Structures,4,,36,101,Practical,,"6,7,8",,,,105,Dr.BASHIR MOHAMMED GHANDI
+CS 241,Data Structures,4,,43,102,Practical,,,,"1,2,3",,105,Dr.BASHIR MOHAMMED GHANDI
+CS 241,Data Structures,4,,35,101,Theoretical,"6,7,8",,,,,105,Dr.BASHIR MOHAMMED GHANDI
+CS 241,Data Structures,4,,42,102,Theoretical,"1,2,3",,,,,105,Dr.BASHIR MOHAMMED GHANDI
+CS 242,Computer Architecture and Organization,4,,38,101,Practical,,,,"6,7,8",,102,Dr.SABBIR MAHMUD
+CS 242,Computer Architecture and Organization,4,,45,102,Practical,,"6,7,8",,,,102,Dr.SABBIR MAHMUD
+CS 242,Computer Architecture and Organization,4,,37,101,Theoretical,3,"4,5",,,,102,Dr.SABBIR MAHMUD
+CS 242,Computer Architecture and Organization,4,,44,102,Theoretical,"4,5",,,5,,102,Dr.SABBIR MAHMUD
+CS 310,Database Systems,4,6,55,301,Practical,,,,"1,2,3",,104,MAMOUN AHMED ZAIN
+CS 310,Database Systems,4,6,54,301,Theoretical,2,"1,2",,,,104,MAMOUN AHMED ZAIN
+CS 312,Computer Organization & Assembly,4,6,72,101,Practical,,,,,"1,2,3",102,Dr.SABBIR MAHMUD
+CS 312,Computer Organization & Assembly,4,6,71,101,Theoretical,6,,"4,5",,,102,Dr.SABBIR MAHMUD
+CS 316,Object-Oriented Programming,4,6,74,101,Practical,,,,"6,7,8",,101,Dr.MOHAMED YASSINE EL AMRANI
+CS 316,Object-Oriented Programming,4,6,73,101,Theoretical,"4,5",,,,6,101,Dr.MOHAMED YASSINE EL AMRANI
+CS 350,Database Systems,4,,53,101,Practical,,,,"1,2,3",,104,MAMOUN AHMED ZAIN
+CS 350,Database Systems,4,,52,101,Theoretical,2,"1,2",,,,104,MAMOUN AHMED ZAIN
+CS 352,Computer Network Systems,4,,57,101,Practical,,,,"1,2,3",,108,Dr.SADIQ AHMED BUGTI
+CS 352,Computer Network Systems,4,,58,102,Practical,,,,,"1,2,3",108,Dr.SADIQ AHMED BUGTI
+CS 352,Computer Network Systems,4,,59,103,Practical,,,,,"4,5,6",108,Dr.SADIQ AHMED BUGTI
+CS 352,Computer Network Systems,4,,56,101,Theoretical,,"6,7,8",,,,110,Dr.SADIQ AHMED BUGTI
+CS 360,Operating Systems,4,,64,101,Practical,,,"6,7,8",,,102,Dr.SABBIR MAHMUD
+CS 360,Operating Systems,4,,63,101,Theoretical,"7,8",,,3,,102,Dr.SABBIR MAHMUD
+CS 361,Computer and Network Security,3,,66,101,Practical,,,,5,,106,Dr.ABDULWAHID ABDULLAH
+CS 361,Computer and Network Security,3,,76,102,Practical,,,,8,,105,Dr.ABDULWAHID ABDULLAH
+CS 361,Computer and Network Security,3,,65,101,Theoretical,,"7,8",,4,,106,Dr.ABDULWAHID ABDULLAH
+CS 361,Computer and Network Security,3,,75,102,Theoretical,,"4,5",,7,,105,Dr.ABDULWAHID ABDULLAH
+CS 362,Web Engineering and Development,3,,68,101,Practical,,"3,4,5",,,,104,MAMOUN AHMED ZAIN
+CS 362,Web Engineering and Development,3,,78,102,Practical,,"6,7,8",,,,104,MAMOUN AHMED ZAIN
+CS 362,Web Engineering and Development,3,,67,101,Theoretical,"4,5",,,,,104,MAMOUN AHMED ZAIN
+CS 362,Web Engineering and Development,3,,77,102,Theoretical,"7,8",,,,,104,MAMOUN AHMED ZAIN
+CS 363,Software Engineering,3,,70,101,Practical,,,,,5,101,Dr.MOHAMED YASSINE EL AMRANI
+CS 363,Software Engineering,3,,80,102,Practical,,,,5,,101,Dr.MOHAMED YASSINE EL AMRANI
+CS 363,Software Engineering,3,,69,101,Theoretical,,,"4,5",,4,101,Dr.MOHAMED YASSINE EL AMRANI
+CS 363,Software Engineering,3,,79,102,Theoretical,,"1,2",,4,,101,Dr.MOHAMED YASSINE EL AMRANI
+CS 415,Computer Communications,3,3,442,101,Theoretical,"4,5",,7,,,BlackBord1,Dr.NASSIMA ALEB
+CS 416,Computer Network Systems,4,6,98,301,Practical,,,,"1,2,3",,108,Dr.SADIQ AHMED BUGTI
+CS 416,Computer Network Systems,4,6,97,301,Theoretical,,"6,7,8",,,,110,Dr.SADIQ AHMED BUGTI
+CS 425,Web Engineering and Development,4,6,100,302,Practical,,"6,7,8",,,,104,MAMOUN AHMED ZAIN
+CS 425,Web Engineering and Development,4,6,99,302,Theoretical,"7,8,9",,,,,104,MAMOUN AHMED ZAIN
+CS 464,Human Computer Interaction,3,,82,101,Practical,,,,2,,BB,Dr.ABDULHADI AEDH AL-QARNI
+CS 464,Human Computer Interaction,3,,81,101,Theoretical,"1,2",,,1,,BB,Dr.ABDULHADI AEDH AL-QARNI
+CS 465,Cloud Computing,3,,84,101,Practical,,,,,2,103,Dr.ABDULWAHID ABDULLAH
+CS 465,Cloud Computing,3,,83,101,Theoretical,,,"1,2",,1,"105,105,103",Dr.ABDULWAHID ABDULLAH
+CS 470,Introduction to Artificial Intelligence,3,,85,101,Theoretical,,,"4,5",,3,110,Dr.BASHIR MOHAMMED GHANDI
+CS 471,Social and Ethical Issues of Computing,3,,86,101,Theoretical,,"1,2",,4,,110,Dr.SALEH SAEED AL ZAHRANI
+CS 472,Programming Languages,3,,87,101,Theoretical,,"4,5",,,7,"122,122,110",Dr.SALEH SAEED AL ZAHRANI
+CS 473,Graduation Project,3,,88,101,Practical,,,"6,7",,,110,Dr.ABDULWAHID ABDULLAH
+CS 473,Graduation Project,3,,90,102,Practical,,,,"6,7",,110,Dr.SALEH ALI AL SHEHRI
+CS 473,Graduation Project,3,,92,103,Practical,,,"6,7",,,114,Dr.SALEH SAEED AL ZAHRANI
+CS 473,Graduation Project,3,,94,104,Practical,,,,"6,7",,114,Dr.SALEH SAEED AL ZAHRANI
+CS 473,Graduation Project,3,,89,101,Theoretical,,,8,,,110,Dr.ABDULWAHID ABDULLAH
+CS 473,Graduation Project,3,,91,102,Theoretical,,,,8,,110,Dr.SALEH ALI AL SHEHRI
+CS 473,Graduation Project,3,,93,103,Theoretical,,,8,,,114,Dr.SALEH SAEED AL ZAHRANI
+CS 473,Graduation Project,3,,95,104,Theoretical,,,,8,,114,Dr.SALEH SAEED AL ZAHRANI
+ENGL 118,English Composition II,3,3,8,104,Theoretical,3,,"1,2",,,146,OTHMAN TRAIH
+ENGL 118,English Composition II,3,3,16,105,Theoretical,,"4,5",,8,,146,OTHMAN TRAIH
+ENGL 118,English Composition II,3,3,116,103,Theoretical,8,"1,2",,,,146,ALEEM SALMAN
+ENGL 118,English Composition II,3,3,123,106,Theoretical,8,,,"1,2",,129,OTHMAN TRAIH
+ENGL 118,English Composition II,3,3,127,107,Theoretical,,7,,,"1,2",146,OTHMAN TRAIH
+ENGL 118,English Composition II,3,3,282,101,Theoretical,"6,7",,7,,,119,ALEEM SALMAN
+ENGL 118,English Composition II,3,3,290,102,Theoretical,,,,3,"4,5",119,ALEEM SALMAN
+ENGL 118,English Composition II,3,3,369,111,Theoretical,"6,7",,,3,,121,SAIF ISLAM MOHAMMAD
+ENGL 118,English Composition II,3,3,438,112,Theoretical,"1,2",,,8,,127,SAIF ISLAM MOHAMMAD
+ENGL 118,English Composition II,3,3,441,113,Theoretical,,7,,"4,5",,127,SAIF ISLAM MOHAMMAD
+ENGL 118,English Composition II,3,3,474,110,Theoretical,3,,,"4,5",,"119,121,121",ALEEM SALMAN
+ENGL 118,English Composition II,3,3,480,114,Theoretical,,"4,5",,,3,148,SAIF ISLAM MOHAMMAD
+ENGL 118,English Composition II,3,3,504,108,Theoretical,6,,"4,5",,,127,OTHMAN TRAIH
+ENGL 118,English Composition II,3,3,506,109,Theoretical,,8,,,"4,5",114,OTHMAN TRAIH
+GS 132,Physical Education II,1,2,394,104,Practical,"6,7",,,,,",",ABDUL MONEM ABDUL AZIZ
+GS 132,Physical Education II,1,2,395,105,Practical,,,"1,2",,,",",ABDUL MONEM ABDUL AZIZ
+GS 132,Physical Education II,1,2,437,106,Practical,,,"4,5",,,",",MAJID IBRAHIM ABDULLAH
+GS 132,Physical Education II,1,2,440,107,Practical,"6,7",,,,,",",MAJID IBRAHIM ABDULLAH
+GS 132,Physical Education II,1,2,481,103,Practical,,,,"6,7",,",",ABDUL MONEM ABDUL AZIZ
+GS 132,Physical Education II,1,2,516,108,Practical,"4,5",,,,,",",ABDUL MONEM ABDUL AZIZ
+GS 132,Physical Education II,1,2,517,109,Practical,,"1,2",,,,",",MAJID IBRAHIM ABDULLAH
+GS 132,Physical Education II,1,2,536,101,Practical,,,,,"1,2",",",MAJID IBRAHIM ABDULLAH
+GS 161,Arabic Practical Grammar,2,2,281,101,Theoretical,,,,,"1,2",110,Dr.SALEH AL-GHAMDI
+GS 161,Arabic Practical Grammar,2,2,370,103,Theoretical,,,"6,7",,,121,Dr.SALEH AL-GHAMDI
+GS 161,Arabic Practical Grammar,2,2,436,104,Theoretical,,"4,5",,,,127,Dr.SALEH AL-GHAMDI
+GS 161,Arabic Practical Grammar,2,2,439,105,Theoretical,,,"1,2",,,127,Dr.SALEH AL-GHAMDI
+GS 161,Arabic Practical Grammar,2,2,475,107,Theoretical,,,,"1,2",,127,Dr.SALEH AL-GHAMDI
+GS 161,Arabic Practical Grammar,2,2,505,108,Theoretical,,,,,"4,5",110,Dr.SALEH AL-GHAMDI
+GS 233,Physical Education III (Male),1,2,407,101,Practical,,,,,"7,8",",",NAIF  MUGHAWI
+GS 262,Arabic Professional Writing,2,2,30,101,Theoretical,"1,2",,,,,129,Dr.YASSEN AL-ETHAIGI
+GS 262,Arabic Professional Writing,2,2,31,102,Theoretical,,"4,5",,,,129,Dr.YASSEN AL-ETHAIGI
+GS 262,Arabic Professional Writing,2,2,32,103,Theoretical,,,,,"6,7",129,Dr.YASSEN AL-ETHAIGI
+GS 262,Arabic Professional Writing,2,2,390,104,Theoretical,,,"4,5",,,119,Dr.YASSEN AL-ETHAIGI
+GS 262,Arabic Professional Writing,2,2,391,105,Theoretical,,,,"6,7",,119,Dr.YASSEN AL-ETHAIGI
+GS 272,Professional Ethics,2,2,48,101,Theoretical,"6,7",,,,,BlackBord1,Dr.SAAD AL-ELYANI
+GS 272,Professional Ethics,2,2,49,102,Theoretical,"9,10",,,,,BB,Dr.SAAD AL-ELYANI
+GS 272,Professional Ethics,2,2,270,301,Theoretical,"6,7",,,,,BlackBord1,Dr.SAAD AL-ELYANI
+GS 272,Professional Ethics,2,2,271,302,Theoretical,"9,10",,,,,BlackBord1,***
+GS 363,Arabic Communication Skills,2,2,62,101,Theoretical,,,,,"6,7",139,Dr.MOHAMMED SAEED AL HAJRI
+GS 363,Arabic Communication Skills,2,2,141,103,Theoretical,,,,"4,5",,139,Dr.MOHAMMED SAEED AL HAJRI
+GS 363,Arabic Communication Skills,2,2,312,102,Theoretical,,"4,5",,,,119,Dr.MOHAMMED SAEED AL HAJRI
+GS 363,Arabic Communication Skills,2,2,414,104,Theoretical,,,"6,7",,,116,Dr.MOHAMMED SAEED AL HAJRI
+GS 363,Arabic Communication Skills,2,2,482,106,Theoretical,"4,5",,,,,114,Dr.MOHAMMED SAEED AL HAJRI
+GS 363,Arabic Communication Skills,2,2,518,107,Theoretical,"6,7",,,,,110,Dr.MOHAMMED SAEED AL HAJRI
+GS 363,Arabic Communication Skills,2,2,551,105,Theoretical,,"1,2",,,,121,Dr.MOHAMMED SAEED AL HAJRI
+GS 373,Human Rights in Islam,2,2,96,101,Theoretical,"9,10",,,,,BB,Dr.SAAD AWWADH ALHARBI
+GS 373,Human Rights in Islam,2,2,417,102,Theoretical,,,,"6,7",,124,Dr.WALEED KHALID AL BILALI
+GS 373,Human Rights in Islam,2,2,418,103,Theoretical,,,"6,7",,,124,Dr.WALEED KHALID AL BILALI
+GS 373,Human Rights in Islam,2,2,419,104,Theoretical,,"6,7",,,,124,Dr.WALEED KHALID AL BILALI
+HRM 112,Human Resource Management,3,,357,101,Theoretical,,,"4,5",,7,BlackBord1,AHMED A. AL-HEBSHI
+HRM 112,Human Resource Management,3,,358,301,Theoretical,,,"4,5",,7,BlackBord2,AHMED A. AL-HEBSHI
+HRM 112,Human Resource Management,3,,359,501,Theoretical,,,"4,5",,7,BlackBord4,AHMED A. AL-HEBSHI
+HRM 112,Human Resource Management,3,,500,102,Theoretical,"1,2",,,7,,BlackBord3,AHMED A. AL-HEBSHI
+HRM 112,Human Resource Management,3,,501,302,Theoretical,"1,2",,,7,,BlackBord3,AHMED A. AL-HEBSHI
+HRM 112,Human Resource Management,3,,502,502,Theoretical,"1,2",,,7,,BlackBord2,AHMED A. AL-HEBSHI
+HRM 222,Human Resource Development,3,,412,101,Theoretical,,"1,2",,,7,122,ABDULLAH S. AL-SAGOUB
+LSCM 251,Supply Chain Management,3,,387,101,Theoretical,,9,,,"6,7",BlackBord1,SABITHA NIKETH
+LSCM 251,Supply Chain Management,3,,388,301,Theoretical,,9,,,"6,7",BlackBord1,SABITHA NIKETH
+LSCM 353,Business Process Management,3,,514,101,Theoretical,3,,,"1,2",,BlackBord4,Dr.GILBERT M. TALAUE
+LSCM 353,Business Process Management,3,,515,301,Theoretical,3,,,"1,2",,BlackBord4,Dr.GILBERT M. TALAUE
+LSCM 412,Spreadsheet Modeling,3,,520,101,Practical,,,,,"4,5",BlackBoard,Dr.GILBERT M. TALAUE
+LSCM 412,Spreadsheet Modeling,3,,522,301,Practical,,,,,"4,5",BlackBord1,Dr.GILBERT M. TALAUE
+LSCM 412,Spreadsheet Modeling,3,,519,101,Theoretical,,,"4,5",,,BlackBord1,Dr.GILBERT M. TALAUE
+LSCM 412,Spreadsheet Modeling,3,,521,301,Theoretical,,,"4,5",,,BlackBord1,Dr.GILBERT M. TALAUE
+LSCM 413,Supply Chain Risk Management,3,,523,101,Theoretical,"1,2",,,8,,BlackBoard,Dr.VIQUAR MIRZA AHMED
+LSCM 413,Supply Chain Risk Management,3,,524,301,Theoretical,"1,2",,,8,,BlackBoard,Dr.VIQUAR MIRZA AHMED
+LSCM 452,Applications in Logistics & Supply Chain,3,,526,101,Practical,,,,,"6,7,8",BlackBoard,MUNIR HUSAIN
+LSCM 452,Applications in Logistics & Supply Chain,3,,528,301,Practical,,,,,"6,7,8",BlackBord5,MUNIR HUSAIN
+LSCM 452,Applications in Logistics & Supply Chain,3,,525,101,Theoretical,,,"1,2",,,BlackBord5,MUNIR HUSAIN
+LSCM 452,Applications in Logistics & Supply Chain,3,,527,301,Theoretical,,,"1,2",,,BlackBord5,MUNIR HUSAIN
+LSCM 480,Advanced Topics in Supply Chain,3,,532,101,Theoretical,,"6,7",,7,,112,Dr.GILBERT M. TALAUE
+LSCM 550,Global Business Logistics and Supply,3,,529,101,Theoretical,"4,5",,8,,,124,Dr.VIQUAR MIRZA AHMED
+LSCM 551,Production Systems and Strategies,3,,530,101,Theoretical,,"1,2",,3,,BlackBord4,Dr.ISHAQ KALANTHER
+LSCM 551,Production Systems and Strategies,3,,533,301,Theoretical,,"1,2",,3,,BlackBoard,Dr.ISHAQ KALANTHER
+LSCM 553,Sustainable Supply Chain Management,3,,531,101,Theoretical,8,,,"4,5",,BlackBoard,Dr.ISHAQ KALANTHER
+LSCM 553,Sustainable Supply Chain Management,3,,534,301,Theoretical,8,,,"4,5",,BlackBord1,Dr.ISHAQ KALANTHER
+MATH 112,Calculus II,4,4,10,101,Theoretical,,"4,5",,,"4,5",139,Dr.BIJU VASUDEVAN
+MATH 112,Calculus II,4,4,18,102,Theoretical,"4,5",,"4,5",,,129,Dr.BIJU VASUDEVAN
+MATH 112,Calculus II,4,4,24,103,Theoretical,,,"1,2",,"1,2",129,Dr.BIJU VASUDEVAN
+MATH 112,Calculus II,4,4,117,104,Theoretical,,"1,2",,"4,5",,129,Dr.BIJU VASUDEVAN
+MATH 112,Calculus II,4,4,124,105,Theoretical,"6,7",,,"6,7",,129,Dr.BIJU VASUDEVAN
+MATH 112,Calculus II,4,4,272,106,Theoretical,"1,2",,,"4,5",,119,Dr.KHALIL AHMAD SHAH
+MATH 112,Calculus II,4,4,284,107,Theoretical,"4,5",,,"1,2",,119,Dr.KHALIL AHMAD SHAH
+MATH 114,Math for Management II,3,3,433,101,Theoretical,6,,,"1,2",,BlackBord1,SAMREEN FATIMA
+MATH 114,Math for Management II,3,3,434,301,Theoretical,6,,,"1,2",,BlackBord1,SAMREEN FATIMA
+MATH 114,Math for Management II,3,3,435,501,Theoretical,6,,,"1,2",,BlackBord1,SAMREEN FATIMA
+MATH 117,Statistical Methods for Management I,3,5,372,102,Practical,,,,,"1,2,3",150,Dr.AHMED IBRAHIM USMAN
+MATH 117,Statistical Methods for Management I,3,5,466,103,Practical,"6,7,8",,,,,106,Dr.AHMED IBRAHIM USMAN
+MATH 117,Statistical Methods for Management I,3,5,479,104,Practical,,,,,"6,7,8",150,Dr.SIRAJ MUHAMMED PANDHIANI
+MATH 117,Statistical Methods for Management I,3,5,499,105,Practical,,,,,"6,7,8",105,Dr.AHMED IBRAHIM USMAN
+MATH 117,Statistical Methods for Management I,3,5,508,106,Practical,,,"6,7,8",,,105,Dr.AHMED IBRAHIM USMAN
+MATH 117,Statistical Methods for Management I,3,5,537,101,Practical,,"1,2,3",,,,102,Dr.AHMED IBRAHIM USMAN
+MATH 117,Statistical Methods for Management I,3,5,371,102,Theoretical,,,"1,2",,,121,Dr.AHMED IBRAHIM USMAN
+MATH 117,Statistical Methods for Management I,3,5,465,103,Theoretical,,,"4,5",,,146,Dr.AHMED IBRAHIM USMAN
+MATH 117,Statistical Methods for Management I,3,5,478,104,Theoretical,,,"4,5",,,112,Dr.SIRAJ MUHAMMED PANDHIANI
+MATH 117,Statistical Methods for Management I,3,5,498,105,Theoretical,,"4,5",,,,112,Dr.AHMED IBRAHIM USMAN
+MATH 117,Statistical Methods for Management I,3,5,507,106,Theoretical,"4,5",,,,,110,Dr.AHMED IBRAHIM USMAN
+MATH 117,Statistical Methods for Management I,3,5,538,101,Theoretical,,,,"4,5",,114,Dr.AHMED IBRAHIM USMAN
+MATH 118,Statistical Method for Management II,3,5,374,101,Practical,,,,"1,2,3",,106,Dr.SIRAJ MUHAMMED PANDHIANI
+MATH 118,Statistical Method for Management II,3,5,444,102,Practical,,,,,"1,2,3",106,Dr.SIRAJ MUHAMMED PANDHIANI
+MATH 118,Statistical Method for Management II,3,5,550,103,Practical,,,,"6,7,8",,152,Dr.SIRAJ MUHAMMED PANDHIANI
+MATH 118,Statistical Method for Management II,3,5,373,101,Theoretical,,"1,2",,,,119,Dr.SIRAJ MUHAMMED PANDHIANI
+MATH 118,Statistical Method for Management II,3,5,443,102,Theoretical,,"4,5",,,,124,Dr.SIRAJ MUHAMMED PANDHIANI
+MATH 118,Statistical Method for Management II,3,5,549,103,Theoretical,"1,2",,,,,114,Dr.SIRAJ MUHAMMED PANDHIANI
+MATH 212,Elements of Differential Equations,3,3,153,102,Theoretical,,"1,2",,8,,BB,Dr.KHALIL AHMAD SHAH
+MATH 212,Elements of Differential Equations,3,3,154,302,Theoretical,,"1,2",,8,,BB,Dr.KHALIL AHMAD SHAH
+MATH 212,Elements of Differential Equations,3,3,166,103,Theoretical,,8,,,"1,2",BB,Dr.KHALIL AHMAD SHAH
+MATH 212,Elements of Differential Equations,3,3,167,303,Theoretical,,8,,,"1,2",BB,Dr.KHALIL AHMAD SHAH
+MATH 212,Elements of Differential Equations,3,3,182,101,Theoretical,,,9,,"4,5",BB,Dr.KHALIL AHMAD SHAH
+MATH 212,Elements of Differential Equations,3,3,183,301,Theoretical,,,9,,"4,5",BB,Dr.KHALIL AHMAD SHAH
+MATH 216,Linear Algebra & Differential,3,3,39,101,Theoretical,,,"4,5",,7,BB,Dr.KHALIL AHMAD SHAH
+MATH 216,Linear Algebra & Differential,3,3,40,103,Theoretical,,,"4,5",,7,BB,Dr.KHALIL AHMAD SHAH
+MATH 216,Linear Algebra & Differential,3,3,46,102,Theoretical,,,"1,2",,8,BB,Dr.KHALIL AHMAD SHAH
+MATH 216,Linear Algebra & Differential,3,3,47,104,Theoretical,,,"1,2",,8,BB,Dr.KHALIL AHMAD SHAH
+MATH 312,Probability & Statistics,3,5,61,101,Practical,,,"6,7,8",,,103,Dr.SHAHID AHMAD
+MATH 312,Probability & Statistics,3,5,185,102,Practical,,,,"7,8,9",,104,Dr.SHAHID AHMAD
+MATH 312,Probability & Statistics,3,5,194,103,Practical,,,,,"1,2,3",105,Dr.SHAHID AHMAD
+MATH 312,Probability & Statistics,3,5,196,104,Practical,,,,,"4,5,6",102,Dr.SHAHID AHMAD
+MATH 312,Probability & Statistics,3,5,329,105,Practical,,,,"1,2,3",,102,Dr.BIJU VASUDEVAN
+MATH 312,Probability & Statistics,3,5,60,101,Theoretical,"7,8",,,,,101,Dr.SHAHID AHMAD
+MATH 312,Probability & Statistics,3,5,184,102,Theoretical,"1,2",,,,,116,Dr.SHAHID AHMAD
+MATH 312,Probability & Statistics,3,5,193,103,Theoretical,,"4,5",,,,116,Dr.SHAHID AHMAD
+MATH 312,Probability & Statistics,3,5,195,104,Theoretical,,,"1,2",,,116,Dr.SHAHID AHMAD
+MATH 312,Probability & Statistics,3,5,328,105,Theoretical,,"6,7",,,,119,Dr.BIJU VASUDEVAN
+MATH 314,Numerical Methods,3,3,330,101,Theoretical,,"1,2",,4,,116,Dr.SHAHID AHMAD
+ME 202,Materials Science,4,6,130,101,Practical,,,"7,8,9",,,141,ABDULLAH FAHAD ALHUZAIM
+ME 202,Materials Science,4,6,131,104,Practical,,,,"1,2,3",,141,Dr.MOHAMED IMBABY
+ME 202,Materials Science,4,6,135,102,Practical,,,,"6,7,8",,141,ABDULLAH FAHAD ALHUZAIM
+ME 202,Materials Science,4,6,136,105,Practical,,,,,"1,2,3",141,ABDULLAH FAHAD ALHUZAIM
+ME 202,Materials Science,4,6,139,103,Practical,,,"3,4,5",,,141,Dr.MOHAMED IMBABY
+ME 202,Materials Science,4,6,140,106,Practical,,,,,"6,7,8",141,Dr.MOHAMED IMBABY
+ME 202,Materials Science,4,6,129,101,Theoretical,"4,5",2,,,,141,ABDULLAH FAHAD ALHUZAIM
+ME 202,Materials Science,4,6,134,102,Theoretical,3,"4,5",,,,ME 336,ABDULLAH FAHAD ALHUZAIM
+ME 202,Materials Science,4,6,138,103,Theoretical,6,"6,7",,,,ME 336,ABDULLAH FAHAD ALHUZAIM
+ME 203,Thermodynamics I,3,3,132,101,Theoretical,,"4,5",,6,,ME324,ELAF NAEEM MAHROUS
+ME 203,Thermodynamics I,3,3,137,102,Theoretical,,,"1,2",,7,ME325,ELAF NAEEM MAHROUS
+ME 204,Thermodynamics II,3,3,142,101,Theoretical,,"4,5",,6,,ME326,Dr.ASIF HODA
+ME 204,Thermodynamics II,3,3,155,102,Theoretical,,6,,"4,5",,ME324,Dr.ASIF HODA
+ME 204,Thermodynamics II,3,3,168,103,Theoretical,,,5,,"4,5",ME326,Dr.ASIF HODA
+ME 204,Thermodynamics II,3,3,169,104,Theoretical,,,4,,"1,2",ME326,Dr.ASIF HODA
+ME 205,Manufacturing Processes I,4,6,144,101,Practical,,,,"1,2,3",,ME321A,MOHAMMED TAHER MOHIUDDIN
+ME 205,Manufacturing Processes I,4,6,145,103,Practical,,,,,"1,2,3",ME321A,Dr.ISLAM M. EL-GALY
+ME 205,Manufacturing Processes I,4,6,146,104,Practical,,,"7,8,9",,,ME321A,Dr.ISLAM M. EL-GALY
+ME 205,Manufacturing Processes I,4,6,157,102,Practical,,,,"7,8,9",,ME321A,Dr.ISLAM M. EL-GALY
+ME 205,Manufacturing Processes I,4,6,158,105,Practical,,,"4,5,6",,,ME321A,MOHAMMED TAHER MOHIUDDIN
+ME 205,Manufacturing Processes I,4,6,159,106,Practical,,,,,"4,5,6",ME321A,MOHAMMED TAHER MOHIUDDIN
+ME 205,Manufacturing Processes I,4,6,171,107,Practical,,,"7,8,9",,,ME321B,MOHAMMED TAHER MOHIUDDIN
+ME 205,Manufacturing Processes I,4,6,143,101,Theoretical,"4,5",,6,,,ME 334,Dr.BAGAS WARDONO
+ME 205,Manufacturing Processes I,4,6,156,102,Theoretical,3,,"1,2",,,ME324,Dr.BAGAS WARDONO
+ME 205,Manufacturing Processes I,4,6,170,103,Theoretical,,"7,8",,,8,ME 335,Dr.BAGAS WARDONO
+ME 208,Mechanics of Materials,3,,147,101,Theoretical,7,,,,"4,5",ME 314,Dr.AHMAD JAMAL
+ME 208,Mechanics of Materials,3,,160,102,Theoretical,,2,,"1,2",,ME 314,Dr.AHMAD JAMAL
+ME 208,Mechanics of Materials,3,,172,103,Theoretical,,1,,"4,5",,ME 314,Dr.AHMAD JAMAL
+ME 211,Mechanical Engg. Drawing I,1,,540,101,Practical,,"6,7,8",,,,ME329,Dr.SYED AMEER BASHA
+ME 211,Mechanical Engg. Drawing I,1,,541,102,Practical,,,,,"4,5,6",ME329,Dr.SYED AMEER BASHA
+ME 211,Mechanical Engg. Drawing I,1,,542,103,Practical,"1,2,3",,,,,ME329,Dr.SYED AMEER BASHA
+ME 212,Mechanical Engg. Drawing II,2,,149,101,Practical,,,,"1,2,3",,154,Dr.MOHAMED MOSTAFA
+ME 212,Mechanical Engg. Drawing II,2,,151,102,Practical,,,,,"1,2,3",154,Dr.MOHAMED MOSTAFA
+ME 212,Mechanical Engg. Drawing II,2,,162,103,Practical,,,,,"7,8,9",154,Dr.MOHAMED MOSTAFA
+ME 212,Mechanical Engg. Drawing II,2,,164,104,Practical,,,"4,5,6",,,154,Dr.MOHAMED MOSTAFA
+ME 212,Mechanical Engg. Drawing II,2,,174,105,Practical,,,,"7,8,9",,154,Dr.MOHAMED MOSTAFA
+ME 212,Mechanical Engg. Drawing II,2,,148,101,Theoretical,1,,,,,154,Dr.MOHAMED MOSTAFA
+ME 212,Mechanical Engg. Drawing II,2,,150,102,Theoretical,2,,,,,154,Dr.MOHAMED MOSTAFA
+ME 212,Mechanical Engg. Drawing II,2,,161,103,Theoretical,4,,,,,154,Dr.MOHAMED MOSTAFA
+ME 212,Mechanical Engg. Drawing II,2,,163,104,Theoretical,5,,,,,154,Dr.MOHAMED MOSTAFA
+ME 212,Mechanical Engg. Drawing II,2,,173,105,Theoretical,,2,,,,114,Dr.MOHAMED MOSTAFA
+ME 301,Dynamics,3,3,152,101,Theoretical,,8,,"4,5",,ME326,ELAF NAEEM MAHROUS
+ME 301,Dynamics,3,3,165,102,Theoretical,"1,2",1,,,,ME326,ELAF NAEEM MAHROUS
+ME 301,Dynamics,3,3,181,103,Theoretical,,,4,,"1,2",ME324,ELAF NAEEM MAHROUS
+ME 301,Dynamics,3,3,313,104,Theoretical,,"1,2",,4,,CE279,JOONAITH CHUNDAN VEEDU
+ME 301,Dynamics,3,3,314,105,Theoretical,,"4,5",,5,,CE279,JOONAITH CHUNDAN VEEDU
+ME 306,Fundamentals of Electric Circuits,3,5,187,101,Practical,,,,,"7,8,9",ME320A,Dr.SYED AMEER BASHA
+ME 306,Fundamentals of Electric Circuits,3,5,188,103,Practical,,,,"1,2,3",,ME320A,Dr.SYED AMEER BASHA
+ME 306,Fundamentals of Electric Circuits,3,5,189,105,Practical,,,"7,8,9",,,ME320A,Dr. Hassan Zuhair ALGarni
+ME 306,Fundamentals of Electric Circuits,3,5,198,102,Practical,,,,,"1,2,3",ME320A,Dr. Hassan Zuhair ALGarni
+ME 306,Fundamentals of Electric Circuits,3,5,199,104,Practical,,,,"7,8,9",,ME320A,Dr. Hassan Zuhair ALGarni
+ME 306,Fundamentals of Electric Circuits,3,5,186,101,Theoretical,,"6,7",,,,ME 316,Dr. Hassan Zuhair ALGarni
+ME 306,Fundamentals of Electric Circuits,3,5,197,102,Theoretical,"1,2",,,,,ME 316,Dr. Hassan Zuhair ALGarni
+ME 307,Machine Design I,3,3,190,101,Theoretical,,"4,5",,,3,ME 334,Dr.MIR MD MARUF MORSHED
+ME 307,Machine Design I,3,3,200,102,Theoretical,7,,,"4,5",,ME 334,Dr.MIR MD MARUF MORSHED
+ME 310,Mechanics of Machines,3,3,191,101,Theoretical,8,,"1,2",,,ME 336,Dr.MIR MD MARUF MORSHED
+ME 310,Mechanics of Machines,3,3,201,102,Theoretical,"4,5",,5,,,ME 336,Dr.MIR MD MARUF MORSHED
+ME 310,Mechanics of Machines,3,3,203,103,Theoretical,,,4,,"1,2",ME325,Dr.MIR MD MARUF MORSHED
+ME 311,Heat Transfer,3,3,204,101,Theoretical,"6,7",,,3,,ME325,Dr.SYED YOUSUFUDDIN
+ME 311,Heat Transfer,3,3,218,102,Theoretical,,,4,,"1,2",ME 334,Dr.SYED YOUSUFUDDIN
+ME 312,Thermo-fluid Lab,1,3,205,101,Practical,,,,,"1,2,3",CE 271A,Dr.IBRAHIM ELRAYAH ABDALLA
+ME 312,Thermo-fluid Lab,1,3,206,102,Practical,,,,,"6,7,8",CE 271A,Dr.IBRAHIM ELRAYAH ABDALLA
+ME 312,Thermo-fluid Lab,1,3,207,103,Practical,,,"7,8,9",,,CE 271A,Dr.IBRAHIM ELRAYAH ABDALLA
+ME 312,Thermo-fluid Lab,1,3,219,104,Practical,,"7,8,9",,,,CE 271A,Dr.ASIF HODA
+ME 312,Thermo-fluid Lab,1,3,220,105,Practical,"1,2,3",,,,,CE 271A,Dr.ASIF HODA
+ME 312,Thermo-fluid Lab,1,3,221,106,Practical,,,,"1,2,3",,CE 271A,Dr.ASIF HODA
+ME 313,Engineering Fluid Mechanics,3,3,192,101,Theoretical,,8,,"4,5",,ME 336,Dr.IBRAHIM ELRAYAH ABDALLA
+ME 313,Engineering Fluid Mechanics,3,3,202,102,Theoretical,3,,,"1,2",,ME325,Dr.IBRAHIM ELRAYAH ABDALLA
+ME 314,Systems Dynamics and Control,3,5,240,101,Practical,,,,,"4,5,6",106,Dr.ELWALEED AWAD KHIDIR
+ME 314,Systems Dynamics and Control,3,,239,101,Theoretical,"1,2",,,,,106,Dr.ELWALEED AWAD KHIDIR
+ME 401,Design Project I,1,,208,101,Theoretical,9,,,,,BB,Dr.MIR MD MARUF MORSHED
+ME 401,Design Project I,1,,209,102,Theoretical,,9,,,,BB,Dr.SYED YOUSUFUDDIN
+ME 401,Design Project I,1,,224,103,Theoretical,6,,,,,BB,Dr.ASIF HODA
+ME 401,Design Project I,1,,225,104,Theoretical,7,,,,,BB,Dr.MOHAMED MOSTAFA
+ME 401,Design Project I,1,,226,105,Theoretical,7,,,,,BB,Dr.ISLAM M. EL-GALY
+ME 401,Design Project I,1,,227,106,Theoretical,7,,,,,BB,Dr.IBRAHIM ELRAYAH ABDALLA
+ME 402,Design Project II,2,,242,101,Practical,,,,"4,5,6",,BB,Dr.ISLAM M. EL-GALY
+ME 402,Design Project II,2,,244,102,Practical,,,,"1,2,3",,BB,ABDULLAH FAHAD ALHUZAIM
+ME 402,Design Project II,2,,246,103,Practical,"3,4,5",,,,,BB,Dr.AHMAD JAMAL
+ME 402,Design Project II,2,,248,104,Practical,,,,,"4,5,6",BB,Dr.ISLAM M. EL-GALY
+ME 402,Design Project II,2,,250,105,Practical,,,,"6,7,8",,BB,Dr.BAGAS WARDONO
+ME 402,Design Project II,2,,252,106,Practical,,,"6,7,8",,,BB,Dr.SYED YOUSUFUDDIN
+ME 402,Design Project II,2,,254,107,Practical,,,,"6,7,8",,BB,Dr.SYED YOUSUFUDDIN
+ME 402,Design Project II,2,,256,108,Practical,"1,2,3",,,,,BB,Dr.MOHAMED IMBABY
+ME 402,Design Project II,2,,545,109,Practical,,,,"1,2,3",,BlackBord2,ELAF NAEEM MAHROUS
+ME 402,Design Project II,2,,547,110,Practical,,"4,5,6",,,,BlackBord1,Dr.IBRAHIM ELRAYAH ABDALLA
+ME 402,Design Project II,2,,241,101,Theoretical,3,,,,,BB,Dr.ISLAM M. EL-GALY
+ME 402,Design Project II,2,,243,102,Theoretical,7,,,,,BB,ABDULLAH FAHAD ALHUZAIM
+ME 402,Design Project II,2,,245,103,Theoretical,,,,3,,BB,Dr.AHMAD JAMAL
+ME 402,Design Project II,2,,247,104,Theoretical,,,6,,,BB,Dr.ISLAM M. EL-GALY
+ME 402,Design Project II,2,,249,105,Theoretical,,6,,,,BB,Dr.BAGAS WARDONO
+ME 402,Design Project II,2,,251,106,Theoretical,3,,,,,BB,Dr.SYED YOUSUFUDDIN
+ME 402,Design Project II,2,,253,107,Theoretical,,6,,,,BB,Dr.SYED YOUSUFUDDIN
+ME 402,Design Project II,2,,255,108,Theoretical,,8,,,,BB,Dr.MOHAMED IMBABY
+ME 402,Design Project II,2,,544,109,Theoretical,3,,,,,BlackBord2,ELAF NAEEM MAHROUS
+ME 402,Design Project II,2,,546,110,Theoretical,,,,3,,BlackBord1,Dr.IBRAHIM ELRAYAH ABDALLA
+ME 411,Industrial Safety,1,,235,101,Theoretical,,1,,,,ME 335,Dr.ISLAM M. EL-GALY
+ME 411,Industrial Safety,1,,236,102,Theoretical,,2,,,,ME 335,Dr.ISLAM M. EL-GALY
+ME 411,Industrial Safety,1,,237,103,Theoretical,,,5,,,ME 335,Dr.ISLAM M. EL-GALY
+ME 413,Electromechanical Devices,3,5,211,101,Practical,"1,2,3",,,,,ME320A,Dr.ADEL SALEM BAHAKEEM
+ME 413,Electromechanical Devices,3,5,212,105,Practical,,,"4,5,6",,,ME320A,Dr.SYED AMEER BASHA
+ME 413,Electromechanical Devices,3,5,214,102,Practical,,,,,"4,5,6",ME320A,Dr.ADEL SALEM BAHAKEEM
+ME 413,Electromechanical Devices,3,5,215,106,Practical,,,,"4,5,6",,ME320A,Dr.ADEL SALEM BAHAKEEM
+ME 413,Electromechanical Devices,3,5,229,103,Practical,"4,5,6",,,,,ME320A,Dr.ADEL SALEM BAHAKEEM
+ME 413,Electromechanical Devices,3,5,230,107,Practical,,"4,5,6",,,,ME320A,Dr.ADEL SALEM BAHAKEEM
+ME 413,Electromechanical Devices,3,5,231,104,Practical,,,,"7,8,9",,ME320B,Dr.SYED AMEER BASHA
+ME 413,Electromechanical Devices,3,5,232,108,Practical,,"7,8,9",,,,ME320A,Dr.ADEL SALEM BAHAKEEM
+ME 413,Electromechanical Devices,3,5,210,101,Theoretical,,,,"1,2",,ME 334,Dr.ADEL SALEM BAHAKEEM
+ME 413,Electromechanical Devices,3,5,213,102,Theoretical,,,"1,2",,,ME 334,Dr.ADEL SALEM BAHAKEEM
+ME 413,Electromechanical Devices,3,5,228,103,Theoretical,,"1,2",,,,ME 334,Dr.ADEL SALEM BAHAKEEM
+ME 414,Machine Design II,4,6,217,101,Practical,,"4,5,6",,,,154,Dr.MOHAMED IMBABY
+ME 414,Machine Design II,4,6,223,102,Practical,,,,,"1,2,3",104,Dr.MOHAMED IMBABY
+ME 414,Machine Design II,4,6,216,101,Theoretical,,7,,"7,8",,ME324,Dr.MOHAMED IMBABY
+ME 414,Machine Design II,4,6,222,102,Theoretical,,1,,"4,5",,ME325,Dr.MOHAMED IMBABY
+ME 417,Maintenance Engineering,3,3,257,101,Theoretical,,"4,5",,2,,ME 335,Dr.ISLAM M. EL-GALY
+ME 419,Turbomachinery,3,3,543,101,Theoretical,,,"1,2",,7,ME 335,Dr.ASIF HODA
+ME 425,Pumping Machinery,3,5,259,101,Theoretical,"4,5",,5,,,ME 316,Dr.SYED YOUSUFUDDIN
+ME 429,Mechanical Vibration,3,5,258,101,Theoretical,,"6,7",,7,,ME 334,Dr.MIR MD MARUF MORSHED
+ME 441,Computational Mechanics,3,,238,101,Theoretical,,,4,,"1,2",ME 335,Dr.AHMAD JAMAL
+MIS 101,Computer Applications,3,4,375,101,Practical,,,"4,5",,,150,MOHAMMED G. QELHAS
+MIS 101,Computer Applications,3,4,377,105,Practical,,,"1,2",,,106,MR. ABDULRAHMAN B. AL-HARBI
+MIS 101,Computer Applications,3,4,472,102,Practical,,,"6,7",,,150,MR. ABDULRAHMAN B. AL-HARBI
+MIS 101,Computer Applications,3,4,476,103,Practical,,,,,"4,5",104,MOHAMMED G. QELHAS
+MIS 101,Computer Applications,3,4,376,101,Theoretical,"4,5",,,,,150,MOHAMMED G. QELHAS
+MIS 101,Computer Applications,3,4,378,105,Theoretical,"6,7",,,,,150,MR. ABDULRAHMAN B. AL-HARBI
+MIS 101,Computer Applications,3,4,426,104,Theoretical,,"4,5",,,,101,MR. ABDULRAHMAN B. AL-HARBI
+MIS 101,Computer Applications,3,4,473,102,Theoretical,"1,2",,,,,150,MR. ABDULRAHMAN B. AL-HARBI
+MIS 101,Computer Applications,3,4,477,103,Theoretical,,"6,7",,,,150,MOHAMMED G. QELHAS
+MIS 204,Business Data Management,3,4,447,101,Practical,,,,,"4,5",150,ABDULQADIR DIRIYE
+MIS 204,Business Data Management,3,4,450,102,Practical,,,,"6,7",,150,MR. ABDULRAHMAN B. AL-HARBI
+MIS 204,Business Data Management,3,4,452,103,Practical,,,,,"7,8",102,MR. ABDULRAHMAN B. AL-HARBI
+MIS 204,Business Data Management,3,4,448,101,Theoretical,,,"1,2",,,150,ABDULQADIR DIRIYE
+MIS 204,Business Data Management,3,4,449,102,Theoretical,,"8,9",,,,150,MR. ABDULRAHMAN B. AL-HARBI
+MIS 204,Business Data Management,3,4,451,103,Theoretical,,"1,2",,,,105,MR. ABDULRAHMAN B. AL-HARBI
+MIS 221,Fundamentals of E-Commerce,3,,446,101,Practical,,,,"4,5",,150,MOHAMMED G. QELHAS
+MIS 221,Fundamentals of E-Commerce,3,,445,101,Theoretical,,"1,2",,,,150,MOHAMMED G. QELHAS
+MIS 305,Intelligent Support Systems in Business,3,4,457,101,Practical,,,,"1,2",,150,ABDULQADIR DIRIYE
+MIS 305,Intelligent Support Systems in Business,3,4,456,101,Theoretical,,"4,5",,,,150,ABDULQADIR DIRIYE
+MIS 344,IS Project Management,3,,455,101,Theoretical,3,,"4,5",,,BlackBord1,Dr.TAYFOUR ABDALLA MOHAMMED
+MIS 409,Information Resources Management,3,3,458,101,Theoretical,"4,5",,3,,,BlackBord1,ABDULLAH RASHED AL RUMI
+MIS 409,Information Resources Management,3,3,459,102,Theoretical,6,,,"4,5",,BlackBord1,ABDULLAH RASHED AL RUMI
+MIS 420,Enterprise Resource Planning,3,4,463,101,Practical,,,,,"4,5",BlackBord1,Tomasa Gilera Bitanga
+MIS 420,Enterprise Resource Planning,3,4,462,101,Theoretical,,,"1,2",,,BlackBord1,Tomasa Gilera Bitanga
+MIS 422,Selected Topics in MIS,3,,461,101,Theoretical,"4,5",,,8,,116,Dr.MOHAMED EL-SAADANI
+MIS 451,Capstone Project,3,,460,101,Theoretical,,"1,2",,3,,124,ABDULLAH RASHED AL RUMI
+SCI 153,General Physics II,4,6,12,101,Practical,,,,"7,8,9",,131,Dr.N.J. SUTHAN KISSINGER
+SCI 153,General Physics II,4,6,13,109,Practical,,,,,"6,7,8",131,Dr.N.J. SUTHAN KISSINGER
+SCI 153,General Physics II,4,6,19,106,Practical,,,,"4,5,6",,120,Dr.SIVAKUMAR RAMALINGAM
+SCI 153,General Physics II,4,6,20,110,Practical,,,,,"6,7,8",120,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,113,103,Practical,,,"7,8,9",,,120,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,114,107,Practical,,,,,"1,2,3",120,Dr.SIVAKUMAR RAMALINGAM
+SCI 153,General Physics II,4,6,115,108,Practical,,,,"1,2,3",,120,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,120,114,Practical,,,,,"1,2,3",131,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,121,115,Practical,,,,"4,5,6",,131,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,122,116,Practical,,"7,8,9",,,,120,Dr.N.J. SUTHAN KISSINGER
+SCI 153,General Physics II,4,6,278,102,Practical,,,,"1,2,3",,131,Dr.SIVAKUMAR RAMALINGAM
+SCI 153,General Physics II,4,6,279,104,Practical,,,"4,5,6",,,131,Dr.SIVAKUMAR RAMALINGAM
+SCI 153,General Physics II,4,6,280,105,Practical,,"4,5,6",,,,120,Dr.SIVAKUMAR RAMALINGAM
+SCI 153,General Physics II,4,6,287,111,Practical,,,"4,5,6",,,120,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,288,112,Practical,,"7,8,9",,,,131,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,289,113,Practical,,"4,5,6",,,,131,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,11,101,Theoretical,"1,2",2,,,,BB,Dr.N.J. SUTHAN KISSINGER
+SCI 153,General Physics II,4,6,110,103,Theoretical,"4,5",3,,,,BB,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,111,303,Theoretical,"4,5",3,,,,BB,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,112,503,Theoretical,"4,5",3,,,,BB,Dr.MOHAMED MUSTHAFA
+SCI 153,General Physics II,4,6,275,102,Theoretical,8,,"1,2",,,BB,Dr.N.J. SUTHAN KISSINGER
+SCI 153,General Physics II,4,6,276,302,Theoretical,8,,"1,2",,,BB,Dr.N.J. SUTHAN KISSINGER
+SCI 153,General Physics II,4,6,277,502,Theoretical,8,,"1,2",,,BB,Dr.N.J. SUTHAN KISSINGER
