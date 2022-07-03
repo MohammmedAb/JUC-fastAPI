@@ -11,9 +11,9 @@ def scheduler(coursesList: List[str], branch: str):
 
     if branch=='1':
         # read master schedule
-        df = pd.read_csv(r"..\backend\FinleTest.csv")
+        df = pd.read_csv("FinleTest.csv")
     elif branch=='2':    
-        df = pd.read_csv(r"..\backend\FemaleBranches.csv")
+        df = pd.read_csv("FemaleBranches.csv")
 
     # group every course code in data frame
     groupCC = df.groupby(['Course Code'])
