@@ -7,7 +7,7 @@ import json
 
 def scheduler(coursesList: List[str], branch: str):
     print(type(branch))
-    coursesList = coursesList[0]
+    coursesList = coursesList[-1]
 
     if branch=='1':
         # read master schedule
