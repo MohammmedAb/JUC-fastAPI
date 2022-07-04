@@ -32,7 +32,7 @@ async def root():
 
 @app.get('/scheduls')
 async def root():
-    TheList = await scheduler(coursesList, branch[0])
+    TheList = scheduler(coursesList, branch[0])
     coursesList.clear()
     branch.clear()
     return TheList
