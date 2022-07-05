@@ -7,12 +7,12 @@ import json
 
 def scheduler(coursesList: List[str], branch: str):
     print(type(branch))
-    coursesList = coursesList[-1]
+    # coursesList = coursesList[-1]
 
-    if branch=='1':
+    if branch == '1':
         # read master schedule
         df = pd.read_csv("FinleTest.csv")
-    elif branch=='2':    
+    elif branch == '2':
         df = pd.read_csv("FemaleBranches.csv")
 
     # group every course code in data frame
